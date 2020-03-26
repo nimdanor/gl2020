@@ -1,4 +1,4 @@
-# Utilisateurs:
+# Utilisateurs sujet 6 :
 - Évaluateurs/ Jury 
 	- Connexion / Authentification sur le système
   	- Ajouter des critères d’évaluation
@@ -12,3 +12,5 @@
   	- vision sur les groupes pris en charge
   	- (Edition ou/et Validations) des grilles de notations
   	- Visue sur les feuilles d’évaluations
+
+# Utilisateurs sujet 7 :
