@@ -1,13 +1,15 @@
-- Évaluateurs/ Jury 
-	- Connexion / Authentification sur le système
-  	- Ajouter des critères d’évaluation
-  	- Remplir la grille d’évaluation
-  	- Signer l’évaluation, la transmettre à l’élève/Secrétaire
-- Elève :
-  	- récupération du résultat par mail
-- Secrétaire :
-  	- traitement des données globales pour un groupe 
-- Equipe pédagogique :
-  	- vision sur les groupes pris en charge
-  	- (Edition ou/et Validations) des grilles de notations
-  	- Visue sur les feuilles d’évaluations
+# Acteurs humain:
+- Evaluateur/jury
+- Elève
+- Secrétaire 
+- Equipe pédagogique
+
+# Acteurs non-humains:
+- LDAP
+
+# Partie prenante:
+- IT Support
+- Commanditaire
+- Client
+- Equipe projet
+- Manageur de l'équipe projet
