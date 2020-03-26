@@ -4,6 +4,6 @@
 ### Enseignant
 ### Jury
 ### Secrétaire
-### Externes
+### Vacataire
 ## Acteur non-humains
 ### LDAP
