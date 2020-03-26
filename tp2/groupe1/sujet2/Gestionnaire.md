@@ -1,7 +1,7 @@
 
 Ce qu’il fournit au système (capacités) : 
 
-- Import des données
+- Import des données (récupération des informations communiquées par les élus et les réactions/signalements des citoyens à travers les modérateurs)
 - Modification des données 
 
 Ce qu’il attend : 
