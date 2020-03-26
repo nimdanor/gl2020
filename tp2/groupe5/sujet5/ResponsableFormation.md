@@ -9,7 +9,7 @@
 ## Attend du système
 * Suivi pédagogique et professionnel pour tous les étudiants
 * Informations traitées par le logiciel (?)
-** Graphes de résultats (?)
+  * Graphes de résultats (?)
 * Interface utilisateur pour un accès simple aux données
 
 ## Capacités informatiques
