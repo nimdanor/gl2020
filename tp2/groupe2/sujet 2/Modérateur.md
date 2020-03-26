@@ -1,4 +1,4 @@
-# Modérateurs
+# Modérateur
 
 ### Ce qu’il fournit au système
 - Veille au respect des règles de l’application en supprimant le contenu qui n’y a pas sa place
