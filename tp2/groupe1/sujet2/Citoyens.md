@@ -1,3 +1,5 @@
+#Acteur : Citoyen
+
 
 Ce qu'il fournit au système :
 - Signale des dégradations.
