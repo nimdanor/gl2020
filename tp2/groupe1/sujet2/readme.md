@@ -2,7 +2,7 @@
 
 # Acteurs :
   - Utilisateur
-    - Toutes les personnes qui utiliseront le system ( Les citoyens, les élus et les services de sécurité )
+    - Toutes les personnes qui utiliseront le systeme ( Les citoyens, les élus et les services de sécurité )
     
   - Réalisateur
     - Le réalisateur est chargé de créer les fonds de cartes qui seront destinés à être enrichies par les informations. ( Fonds de carte          des zones demandées ).
