@@ -1,13 +1,22 @@
-Sujet 2
+#Sujet 2
 
-Acteurs :
+#Acteurs :
   - Utilisateur
+    - Toutes les personnes qui utiliseront le system ( Les citoyens, les 
+    
   - Elus
+    -
+    
   - Réalisateur
+    -
+  
   - Gestionnaire
+    -
+  
   - Designer
+    -
  
- Parties prenantes :
- - Service technique de la municipalite
- - Police / Pompier
- - Citoyens
+ #Parties prenantes :
+ 
+   - Citoyens
+   - Service de sécurité suite aux données fournies par les citoyens ( Police/Gendarmerie ).
