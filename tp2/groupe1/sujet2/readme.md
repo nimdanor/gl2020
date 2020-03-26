@@ -4,6 +4,7 @@ Acteurs :
   - Utilisateur
   - Elus
   - Réalisateur
+  - Gestionnaire
   - Designer
  
  Parties prenantes :
