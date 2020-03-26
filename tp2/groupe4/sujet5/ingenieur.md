@@ -1,0 +1,4 @@
+- s’attend à pouvoir suivre la montée en compétence de son salarié/apprenti et les points à améliorer en entreprise
+- renseigner les missions de son etudiant
+- pouvoir lui valider ces acquis
+- pouvour contacté les enseignements, le responsable de formation

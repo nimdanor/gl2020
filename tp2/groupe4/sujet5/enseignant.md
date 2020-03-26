@@ -1,0 +1,3 @@
+- s’attend à pouvoir suivre le parcours de ses étudiants
+- doit pouvoir valider des points de compétence de ses étudiants 
+- conseiller les étudiants dans les matières présentant des difficultés.

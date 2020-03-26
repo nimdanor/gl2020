@@ -1,0 +1,5 @@
+- pouvoir d'authentifier et accéder à son espace personnel
+- s’attend à voir l’avancement de l’acquisition de ses compétences
+- Doit être en mesure de renseigner ses acquis dans le logiciel pour que les autres lecteurs puissent évaluer sa progression
+- modifier ces infos personnelles
+- pouvoir contacter ces référents (tuteur école, tuteur ingénieur, responsable de formation) 
