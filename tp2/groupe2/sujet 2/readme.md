@@ -1,10 +1,10 @@
 # groupe B
- Sujet 2
- 
+Sujet 2
+
 Acteurs :
--SOGEFI
--Citoyens (commerçants, citoyens “lambda”)
--Élus
+- SOGEFI
+- Citoyens (commerçants, citoyens “lambda”)
+- Élus
 Parties prenantes :
--Services publics (pompiers, policiers, agents municipaux)
--Personnes étrangères à la collectivité (visiteurs, non-résidents)
+- Services publics (pompiers, policiers, agents municipaux)
+- Personnes étrangères à la collectivité (visiteurs, non-résidents)
