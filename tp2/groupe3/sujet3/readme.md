@@ -1,4 +1,8 @@
-Liste des acteurs :
+Liste des acteurs humains direct :
+- Responsables de filières
 - Secrétaires de filières
 - Profs (titulaires, non titulaires; chercheurs ou non)
-- responsables de filières
+
+Liste des acteurs humains indirect :
+- Elèves ?
+
