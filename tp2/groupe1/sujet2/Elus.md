@@ -11,3 +11,6 @@ Ce qu'il fournit au système :
   - chute de branches ou d'arbres
   - ...
 - présenter leurs projets d'aménagement
+
+Ce qu'il attend du système :
+  - les signalements et les suggestions des citoyens
