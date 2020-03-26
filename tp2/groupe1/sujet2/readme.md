@@ -1,7 +1,9 @@
 
 Acteurs :
-  - Citoyen
+  - Utilisateur
   - Elus
+  - Réalisateur
+  - Designer
  
  Parties prenantes :
  - Service technique de la municipalite
