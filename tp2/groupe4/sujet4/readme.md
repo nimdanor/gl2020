@@ -6,7 +6,7 @@
 
 - [Logiciel QGis](QGis.md)
 - [Utilisateurs](Utilisateurs.md)
-- [Dispositifs mobiles (tablettes, smartphones)](Dispositifs mobiles.md)
+- [Dispositifs mobiles (tablettes, smartphones)](DispositifsMobiles.md)
 
 ### Acteurs indirects
 
