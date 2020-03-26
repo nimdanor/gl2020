@@ -18,6 +18,6 @@
 - [CNRS](CNRS.md)
 - [Responsable du projet (M. Fernandes)](ResponsableProjet.md)
 - [PCR](PCR.md)
-- [Assistant (M. Tufféry)]
+- Assistant (M. Tufféry)
 - [Société Paléotime](Paleotime.md)
 - [Étudiants de l'ESIPE](EtudiantsESIPE.md)
