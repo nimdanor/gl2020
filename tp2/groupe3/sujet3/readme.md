@@ -17,3 +17,6 @@ Acteurs non humains :
 - ADE
 - VSF
 - Ordinateur / Téléphone
+- LDAP pour l’authentification
+- Un ou les serveurs nécessaire pour son hébergement 
+- Composant / Service web ( Apache2)  (car interface web)
