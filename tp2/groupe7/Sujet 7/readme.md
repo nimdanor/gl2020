@@ -1,12 +1,12 @@
 # Acteurs directs
 
-[Étudiants de l’Université Gustave Eiffel souhaitant se restaurer] (Etudiant.md)
-[Externes (minorité)] (Externe.md)
+- [Étudiants de l’Université Gustave Eiffel souhaitant se restaurer] (Etudiant.md)
+- [Externes (minorité)] (Externe.md)
 
 # Acteurs matériels
 
-[Caméra] (Camera.md)
-[Ecrans] (Ecran.md)
+- [Caméra] (Camera.md)
+- [Ecrans] (Ecran.md)
 
 # Parties prenantes
 
