@@ -4,6 +4,7 @@ Sujet 2
 Acteurs :
 - Citoyens (commerçants, citoyens “lambda”)
 - Élus
+- Administrateurs système
 
 Parties prenantes :
 - Services publics (pompiers, policiers, agents municipaux)
