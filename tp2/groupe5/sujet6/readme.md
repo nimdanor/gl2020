@@ -1,9 +1,11 @@
 # Liste des acteurs
 ## Acteur humains
-### Etudiant
-### Enseignant
-### Jury
-### Secrétaire
-### Vacataire
+* Etudiant
+* Enseignant
+  * Vacataire
+  * Titulaire
+* Jury
+* Secrétaire
+
 ## Acteur non-humains
-### LDAP
+* LDAP
