@@ -2,7 +2,7 @@
 
 1. Conservatoire V
 2. Commanditaire V
-3. Membre du réseau = Utilisateur(sont-ils les mêmes que les commanditaires) V
+3. Membre du réseau = Utilisateur (sont-ils les mêmes que les commanditaires ?) V
 4. Producteur  (Partager les résultats) V
 
 # Acteurs matériels
