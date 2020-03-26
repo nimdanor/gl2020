@@ -1,4 +1,4 @@
 
 
 ## Acteurs non humains
-[brgm.md](brgm)
+[brgm](brgm.md)
