@@ -7,7 +7,7 @@
  - Réalisateur de cartes
  - Gestionnaire de données cartographiques
  - Designer pour la mise en page des cartes
- - Utilisateurs des cartes
+ - Utilisateur des cartes
  
  Parties prenantes : 
  
