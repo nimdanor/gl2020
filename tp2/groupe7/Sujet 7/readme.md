@@ -3,10 +3,6 @@
 1. Étudiants de l’Université Gustave Eiffel souhaitant se restaurer
 2. Externes (minorité)
 
-Objectif des acteurs :
-	- Gagner du temps (Objectif)
-	- Manger sans faire 30 minutes ou plus de queue (Besoin)
-
 # Acteurs matériels
 
 1. Caméra
