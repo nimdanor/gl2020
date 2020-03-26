@@ -1,4 +1,4 @@
-Ce qu’il fournit au système (capacités) : 
+Ce qu’il fournit au système : 
 
 - Création des fonds de cartes
 
