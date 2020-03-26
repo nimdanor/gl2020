@@ -2,7 +2,7 @@
 (enseignant titulaire, non titulaire, responsable de formation...)
 
 ### Ce qu’il fournit au système
-- Les voeux des enseignants
+- Ses voeux d’enseignement
   - Les modules et formats souhaités
 
 ### Ce qu’il attend du système
