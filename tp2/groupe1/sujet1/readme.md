@@ -1,5 +1,4 @@
-# groupe A
- Sujet 1 
+# Sujet 1 
  
  Acteurs : 
  
