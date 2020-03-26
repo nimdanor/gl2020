@@ -1,3 +1,10 @@
 # groupe B
- Sujet 2 
- creez un fichier acteurs.md et un fichier pp.md 
+ Sujet 2
+ 
+Acteurs :
+-SOGEFI
+-Citoyens (commerçants, citoyens “lambda”)
+-Élus
+Parties prenantes :
+-Services publics (pompiers, policiers, agents municipaux)
+-Personnes étrangères à la collectivité (visiteurs, non-résidents)
