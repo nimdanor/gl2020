@@ -6,3 +6,14 @@ Liste des acteurs humains direct :
 
 Liste des acteurs humains indirect :
 - Elèves
+
+Acteurs non humains :
+- Outils de gestion de l’université (ça regroupe tout) : 
+  - base de données des modules existants ?
+  - ADE
+  - VSF
+  - Apogée
+  - Moodle
+- Ordinateur
+- Téléphone
+
