@@ -15,5 +15,5 @@ Capacités :
 
 Fréquence d’utilisation : 
 
-- Moyenne
+- Faible
 
