@@ -1,4 +1,3 @@
-# groupe F
 # Sujet 6
 
 # Outils nomades d’évaluation critériée
