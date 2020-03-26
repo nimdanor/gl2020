@@ -2,7 +2,6 @@
 Sujet 2
 
 Acteurs :
-- SOGEFI
 - Citoyens (commerçants, citoyens “lambda”)
 - Élus
 
