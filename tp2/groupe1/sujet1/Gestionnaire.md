@@ -11,7 +11,7 @@ Ce qu’il attend :
 Capacités :
 
   - Connaissances en base de donnée ( MySQL, NoSql)
-  - Connaissances d'interface de base de donnée (PhpMyAdmin, PostgreSQL, MongoDB et d'autre gestionnaire de base de donnée )
+  - Connaissances d'interfaces de base de donnée (PhpMyAdmin, PostgreSQL, MongoDB et d'autre gestionnaire de base de donnée )
 
 Fréquence d’utilisation : 
 
