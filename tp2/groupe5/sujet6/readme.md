@@ -6,5 +6,4 @@
 ### Secrétaire
 ### Externes
 ## Acteur non-humains
-### BDD
 ### LDAP
