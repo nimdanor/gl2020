@@ -1,6 +1,6 @@
 # Listes des Acteurs :
-- Etudiants
-- Enseignants
+- Etudiant
+- Enseignant
 - Responsable Formation
 - Tuteur Professionnel
 - Tuteur Académique 
