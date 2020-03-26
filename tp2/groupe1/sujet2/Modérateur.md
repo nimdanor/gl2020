@@ -13,7 +13,8 @@ Ce qu'il attend :
 
 Capacités :
 
-  - 
+  - Une bonne connaissance du système (connaisse du lexique spécifique au système)
+  - Compétences en gestion de relations humaines
 
 Fréquence d'utilisation : 
 
