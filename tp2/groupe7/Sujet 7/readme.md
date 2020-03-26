@@ -3,7 +3,7 @@
 1. [Étudiants de l’Université Gustave Eiffel souhaitant se restaurer](Etudiant.md)
 2. [Externes (minorité)](Externe.md)
 
-# Acteurs matériels
+# Acteurs non humains
 
 1. [Caméra](Camera.md)
 2. [Ecrans](Ecran.md)
