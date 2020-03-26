@@ -19,4 +19,3 @@
 ### Capacités informatique : ``` ADEQUATE ```
 
 ### Utilisation du logiciel : ``` REGULIERE ```
-
