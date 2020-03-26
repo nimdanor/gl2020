@@ -1,6 +1,6 @@
-#Sujet 2
+# Sujet 2
 
-#Acteurs :
+# Acteurs :
   - Utilisateur
     - Toutes les personnes qui utiliseront le system ( Les citoyens, les 
     
@@ -16,7 +16,7 @@
   - Modérateur
     - Il surveille les demandes des Elus et Citoyens sur le forum
  
- #Parties prenantes :
+ # Parties prenantes :
      
    - Elus
     - Echangent sur les données présentent sur la carte et sollicitent les Citoyens sur des forums
