@@ -1,4 +1,4 @@
-#Acteur : Citoyen
+# Acteur : Citoyen
 
 
 Ce qu'il fournit au système :
