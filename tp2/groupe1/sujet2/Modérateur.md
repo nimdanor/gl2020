@@ -1,5 +1,3 @@
-# Acteur : Modérateur
-
 Ce qu'il fournit au système :
 
   - Les informations transmisent à travers les forums
