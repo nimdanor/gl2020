@@ -1,6 +1,6 @@
 # Sujet 1 
  
- Acteurs : 
+# Acteurs : 
  
  - Réalisateur :
    Le réalisateur est chargé de créer les fonds de cartes qui seront destinés à être enrichies par les informations.
