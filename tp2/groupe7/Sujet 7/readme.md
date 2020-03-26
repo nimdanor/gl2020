@@ -1,12 +1,12 @@
 # Acteurs directs
 
-1. Étudiants de l’Université Gustave Eiffel souhaitant se restaurer
-2. Externes (minorité)
+1. [Étudiants de l’Université Gustave Eiffel souhaitant se restaurer] (Etudiant.md)
+2. [Externes (minorité)] (Externe.md)
 
 # Acteurs matériels
 
-1. Caméra
-2. Ecrans
+1. [Caméra] (Camera.md)
+2. [Ecrans] (Ecran.md)
 
 # Parties prenantes
 
