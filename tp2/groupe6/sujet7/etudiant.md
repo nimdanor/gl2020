@@ -1,4 +1,4 @@
 # Étudiants de l’Université Gustave Eiffel 
-  - Souhaitant se restaurer
-  - Gagner du temps (Objectif) 
-  - Manger sans faire 30 minutes ou plus de queue (Besoin) 
+  - Souhaitant connaître le temps d'attente pour accèder au CROUS
+  - Automatiquement compté lorsqu'il accède au restaurant
+  - Automatiquement décompter lorsqu'il quitte le restaurant
