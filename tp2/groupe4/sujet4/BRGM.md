@@ -1,0 +1,1 @@
+- Fournit des WMS permettant l’affichage des cartes géologiques

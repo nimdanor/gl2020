@@ -1,0 +1,1 @@
+- S’attend à utiliser et interagir directement avec l’application mobile. Ils pourront utiliser l’application à leur convenance sur le terrain, à tout moment dans leur profession. Ils peuvent éditer les données fournies par AGOL de manière asynchrone.

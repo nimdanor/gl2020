@@ -1,0 +1,2 @@
+- Attend les interactions de l’utilisateur
+- Fournit les interactions avec l’application
