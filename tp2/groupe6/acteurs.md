@@ -9,6 +9,4 @@
 
 # Partie prenante:
 - IT Support
-- Commanditaire/client
-- Equipe projet
-- Manageur de l'équipe projet
+- Université Académie
