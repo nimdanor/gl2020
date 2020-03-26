@@ -2,7 +2,7 @@
 Ce qu’il fournit au système : 
 
 - Import des données (récupération des informations communiquées par les élus et les réactions/signalements des citoyens à travers les modérateurs)
-- Modification des données 
+- Modification des données ( Mise à jour / ajout / suppression )
 
 Ce qu’il attend : 
 
