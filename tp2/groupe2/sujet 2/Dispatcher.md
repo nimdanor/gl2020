@@ -1,4 +1,4 @@
-# Dispatchers
+# Dispatcher
 
 ### Ce qu’il fournit au système
 - Prévient les services publics des tâches à réaliser mets à jour l’application en fonction des retours de ceux-ci
