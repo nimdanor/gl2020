@@ -5,8 +5,10 @@ Ce qu’il fournit au système :
 
 Ce qu’il attend : 
 
-- Pouvoir télécharger la carte
+- Pouvoir se déplacer sur la carte
+- Pouvoir régler le zoom de la carte
 - Avoir accès à une légende
+- Pouvoir cliquer sur les éléments de la carte pour obtenir des informations
 
 Capacités :
 
