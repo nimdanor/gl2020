@@ -20,7 +20,4 @@ Acteurs non humains :
   - base de données des modules existants ?
   - ADE
   - VSF
-  - Ordinateur / Téléphone
   - LDAP pour l’authentification
-  - Un ou les serveurs nécessaire pour son hébergement 
-  - Composant / Service web ( Apache2)  (car interface web)
