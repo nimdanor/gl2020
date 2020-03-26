@@ -1,2 +1,3 @@
 # Objectif 
-> Se restaurer et connaître l'état de la file d'attente
+1. Se restaurer
+2. Connaître l'état de la file d'attente
