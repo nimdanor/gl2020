@@ -1,4 +1,9 @@
-# groupe F
+# Sujets
+
+[Sujet 6](https://github.com/nimdanor/gl2020/tree/master/tp2/groupe6#sujet-6)
+
+[Sujet 7](https://github.com/nimdanor/gl2020/tree/master/tp2/groupe6#sujet-7)
+
 # Sujet 6
 
 # Outils nomades d’évaluation critériée

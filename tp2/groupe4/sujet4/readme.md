@@ -20,4 +20,3 @@
 - [PCR](PCR.md)
 - Assistant (M. Tufféry)
 - [Société Paléotime](Paleotime.md)
-- [Étudiants de l'ESIPE](EtudiantsESIPE.md)

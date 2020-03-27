@@ -1,4 +1,4 @@
-# Partie prenante:
+# Parties prenantes:
 - IT Support
 - Commanditaire
 - Client

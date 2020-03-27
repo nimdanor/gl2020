@@ -3,11 +3,8 @@
   
     - Le titre de la carte
     - Les crédits
-    - Liste des taxons
     - L'échelle
-    - Format du nom de sortie
-    - Résolution en sortie
-    -Valeur ajouté -> Une légende
+    - Valeur ajouté -> Une légende
 
   Ce qu’il attend :
 
@@ -23,3 +20,4 @@
 Fréquence d’utilisation :
 
 Faible/Moyen (Intervention lors de l'arrivé des nouvelles cartes)
+

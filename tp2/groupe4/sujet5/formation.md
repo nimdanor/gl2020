@@ -1,0 +1,3 @@
+- s'attend à pouvoir suivre les compétences validées par les étudiants 
+- pouvoir avoir des statistiques sur les taux (réussite, échec) dans les différents modules dispensé
+- facilité les tâches de suivi pour le personnel encadrant 
