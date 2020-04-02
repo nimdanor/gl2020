@@ -55,16 +55,11 @@ Les modifications effectuées doivent apparaître au sein du système une fois l
 
 ### Besoins Spéciaux (optionel)  
 
-
 ### Performance  
 ###	Security  
 ###	Usability / Accessibility  
 ###	Other  
 
 ##	Problèmes et étapes suivantes  
-FIXME _[Note any issues related to the definition of this use case that will require clarification prior to development. Also list any follow-up work that needs to be done prior to sign-off on the use case.]_  
-
-FIXME définir ce qui pose problème dans la description **actuelle** du cas d'utilisation.  
-FIXME vous pouvez ajouter ici un lien vers une issue github ou un carte de projet github.
 
 TBR
