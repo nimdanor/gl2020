@@ -1,20 +1,21 @@
+# Liste des cas d'utilisation
 
-# Liste des cas d'utilisateur
+Prérequis pour chaque use case.
+## Evaluation de rapport d'alternance
 
-## Login
-* Utilisateur
-## Consulter la liste des soutenances
-* Equipe pédagogique
-## Organiser les sessions
-* Secrétaire
-## Organiser les groupes d'étudiants
-## Consulter les notes
-* Eleve
-* Secretaire
-* Jury
-## Définir les critères
-* Equipe pédagogique
-## Evaluer
-* Jury/Evaluateur
-## Traiter les notes
-* Acteur : Secrétaire
+## Utilisateur
+* Authentification sur le site [ici](./Utilisateur/Login.md)
+## Enseignant
+* Organiser les sessions
+* Organiser les groupes d'étudiants
+* Construire une grille critériée
+## Jury
+* Consulter les notes
+* Evaluer l'apprenti
+## Secretaire
+* Consulter les notes
+* Traiter les notes
+## Apprenti
+* Organiser les groupes d'apprentis
+* Consulter les notes personnelles
+* Consulter les sessions personnelles
