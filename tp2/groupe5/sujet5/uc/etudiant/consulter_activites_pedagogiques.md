@@ -1,7 +1,7 @@
 
 
 
-# Cas d'utilisation N°1 : voir la liste des activités pédagogiques
+# Cas d'utilisation N°1 : consulter la liste des activités pédagogiques
 
 Niveau Objectif utilisateur
 
