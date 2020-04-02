@@ -3,30 +3,26 @@
 Niveau 0
 
 ##	Description
-
 L'archéologue doit pouvoir supprimer des données qu'il a publié.
 Cela sera fait via l'historique afin de faire marche arrière sur un groupe de données publié en même temps.
-
-FIXME _[One to two sentences that briefly describe the use case, including the primary actor’s goal]_   
-FIXME N'oubliez pas de mensioner le concept **[{{concept}}](https://github.com/PremierLangage/plconception/blob/master/conception/concept/{{concept}}.md)**  
+Objectif archéologue : pouvoir supprimer des données depuis son terminal et que la suppression se fasse sur la base de donnée
 
 > **Niveau** :Haut niveau, Résumé, objectif utilisateur, sous fonction, Bas niveau , FIXME Remove unused   
-> **Déclencheur** : _[Describe the event that initiates the use case.]_ TODO  
-> **Acteur Primaire**: Utilisateur   
+> **Déclencheur** : L'utilisatuer souhaite supprimer un fichier présent sur la base de données
+> **Acteur Primaire**: Archéologue   
 > **Acteurs secondaires**: TODO   
 > **Parties Prenantes concernées** : TODO   
  
  
 ## Preconditions
 
-FIXME Listez les conditions nécessaire pour que ce cas d'utilisation puisse avoir lieux
-
+- avoir importé des fichiers depuis AGOL
+- avoir une connexion internet
+- le serveur AGOL doit être en état de marche
 
 ## Scenario Nominal
 
-FIXME_[tout ce passe bien c'est le scénario parfait .]_
-
-1.	TODO  
+1.	
 2.	TODO  
 3.	TODO  
 4.	TODO  
