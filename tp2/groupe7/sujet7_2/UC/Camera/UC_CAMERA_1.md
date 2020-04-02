@@ -30,15 +30,15 @@ La caméra doit etre branché et enregistrer dans le systeme avec droit d'envoie
 ###	Extensions
 
 1.	La caméra se connecte au systeme
-  1.1 La camera n'arrive pas a se connecter
-  1.2 Elle ré-essaye 3 fois attend 5mn ré-essaye 3
-  1.3 Si toujours pas de connection, ouverture d'un ticket 
+ 1.1 La camera n'arrive pas a se connecter
+ 1.2 Elle ré-essaye 3 fois attend 5mn ré-essaye 3
+ 1.3 Si toujours pas de connection, ouverture d'un ticket 
 2.	La caméra filme l'entrée/sortie du batiment
-  2.1 La camera ne filme pas
-  2.2 ouverture ticket 
+ 2.1 La camera ne filme pas
+ 2.2 ouverture ticket 
 3.	Toute les minutes elle envoi ce qu'elle à filmer au systeme
-  3.1 connexion lente et ou instable
-  3.2 Toute 5m envoie une minute 
+ 3.1 connexion lente et ou instable
+ 3.2 Toute 5m envoie une minute 
 
 ## Post Conditions
 
