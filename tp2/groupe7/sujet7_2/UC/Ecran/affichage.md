@@ -22,15 +22,17 @@ Mettre en place un système de clacul de l'affluence dans le bâtiment du CROUS
 
 ## Scenario Nominal
 
-FIXME_[tout ce passe bien c'est le scénario parfait .]_
+L'écran affiche un temps d'attente représentatif et conseille ou non de se rendre au restaurant universitaire.
 
-1.	TODO  
-2.	TODO  
-3.	TODO  
-4.	TODO  
+1.	Mesurer la file d'attente
+2.	Estimer le temps d'attente
+3.	Communiquer le résultat au réseau d'écrans
+4.	Afficher le temps d'attente aux étudiants
 
 ###	Extensions
-FIXME Moins bien _[Document alternate flows and exceptions to the main success scenario. Extensions are branches from the main scenario, and numbering should align with the step of the success scenario where the branch occurs.]_
+
+1. Mesures peu précises
+2. Réseau défecteux
 
 FIXME Indiquez dans quel point du scenario nominal le chemin alternatif démarre et ou il reprend.
 
