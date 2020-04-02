@@ -2,10 +2,12 @@
 # Liste des cas d'utilisateur
 
 ## Login
-* Tous les acteurs humains
+* Utilisateur
 ## Consulter la liste des soutenances
-## Gérer les groupes d'étudiants
+* Equipe pédagogique
+## Organiser les sessions
 * Secrétaire
+## Organiser les groupes d'étudiants
 ## Consulter les notes
 * Eleve
 * Secretaire
