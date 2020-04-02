@@ -1,13 +1,12 @@
-# Cas d'utilisation N° {{nbuc}} :  {{ucname}}
+# Cas d'utilisation N° 2 : Se connecter
 
-Niveau {{order}}
+Niveau : Haut niveau
 
 ##	Description
 
-{{comment}}
+Le Designer doit être en capacité de se connecter à l'application avec un nom d'utilisateur ou son adresse e-mail et son mot de passe.
 
-FIXME _[One to two sentences that briefly describe the use case, including the primary actor’s goal]_   
-FIXME N'oubliez pas de mensioner le concept **[{{concept}}](https://github.com/PremierLangage/plconception/blob/master/conception/concept/{{concept}}.md)**  
+L'objectif du Designer est de se connecter à son espace dans l'application pour pouvoir l'utiliser.
 
 > **Niveau** :Haut niveau, Résumé, objectif utilisateur, sous fonction, Bas niveau , FIXME Remove unused   
 > **Déclencheur** : _[Describe the event that initiates the use case.]_ TODO  
