@@ -37,12 +37,13 @@ Les compétences à  acquérir par l'étudiant ont étés saisies dans l'applica
 ### Minimal Guarantees
 - Confirmation ou non de la saisie.
 - La compétences une fois validée, sera visible pour les enseignants et les tuteurs.
-FIXME -> en parler au client (Ntonio e valdiation des compétences, minimum , max de compétences, visibilité)
+FIXME -> En parler au client (Notion de valdiation des compétences, minimum , max de compétences, visibilité)
 
 ### Conditions final en cas d'échec
 La compétence existe déja.
 ### Frequence
-FIXME _[Indicate how often the use case is expected to occur. This information aids designers and developers in understanding capacity requirements.]_   
+une fois  la création de la formation dans l'application En continu, 
+
 ### Besoins Spéciaux (optionel)  
 FIXME _[Describe any additional factors that impact the execution of the use case. These could be environmental, regulatory, organizational or market-driven in nature.]_  
 ### Performance  
@@ -55,5 +56,3 @@ FIXME _[Note any issues related to the definition of this use case that will req
 
 FIXME définir ce qui pose problème dans la description **actuelle** du cas d'utilisation.  
 FIXME vous pouvez ajouter ici un lien vers une issue github ou un carte de projet github.
-
-TBR
