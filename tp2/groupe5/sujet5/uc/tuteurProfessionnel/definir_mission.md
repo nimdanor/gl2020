@@ -4,7 +4,7 @@ Niveau 1
 
 ##	Description
 
-Définir les mission et compétences demandés pour son stagiaire/apprenti
+Définir les missions et compétences demandés pour son stagiaire/apprenti pour une période professionnel future.
 
 > **Niveau** :Résumé, objectif utilisateur
 > **Déclencheur** : Début d'une période professionnel
@@ -17,6 +17,7 @@ Définir les mission et compétences demandés pour son stagiaire/apprenti
 
 - Le tuteur doit avoir un compte dans l'application.
 - Le tuteur doit avoir un ou plusieurs stagiaire/apprenti
+- La période professionnelle ne doit pas être encore commencée
 
 
 ## Scenario Nominal
@@ -24,7 +25,8 @@ Définir les mission et compétences demandés pour son stagiaire/apprenti
 1.	Le tuteur se connecte à l'application
 2.	Il recherche son statgiaire/apprenti
 3.	Il rentre dans l'onglets "Définir les missions"
-4.	Il ajoute, modifie ou supprime les missions
+4. Il sélectionne le période professionnel sur laquelle les missions vont être définies.
+5.	Il ajoute, modifie ou supprime des missions
 
 ###	Extensions
 FIXME Moins bien _[Document alternate flows and exceptions to the main success scenario. Extensions are branches from the main scenario, and numbering should align with the step of the success scenario where the branch occurs.]_
@@ -43,7 +45,6 @@ FIXME _[Describe the guarantee or assurance that this Use Case provides to all A
 ### Conditions final en cas d'échec
 
 Les modifications apportées n'ont pas été faites.
-
 
 FIXME _les variables suivantes sont optionnelles._
 
