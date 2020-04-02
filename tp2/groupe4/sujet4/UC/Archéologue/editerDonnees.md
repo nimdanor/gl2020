@@ -1,10 +1,10 @@
-# Cas d'utilisation N° 1 :  Afficher la cartographie des données
+# Cas d'utilisation N° 1 :  Editer en mode asynchrone les données cartographiques
 
 Niveau 0
 
 ##	Description
 
-L'archéologue doit pouvoir afficher la cartographie des données sur l'application.
+L'archéologue doit pouvoir afficher la cartographie des données sur l'application ainsi qu'éditer ces données extraites du logiciel.
 
 FIXME _[One to two sentences that briefly describe the use case, including the primary actor’s goal]_   
 FIXME N'oubliez pas de mensioner le concept **[{{concept}}](https://github.com/PremierLangage/plconception/blob/master/conception/concept/{{concept}}.md)**  
