@@ -24,7 +24,11 @@ Le tuteur professionnel peut gérer les paramètres de son compte.
 3.	
 - Il peut modifier son mot de passe
 - Il peut modifier son email
-- Il peut se déconnecter
+- Il peut modifier son numéro de téléphone
+- Il peut modifier son prénom
+- Il peut modifier son nom
+- Il peut modifier son métier
+4. Il peut se déconnecter
 
 
 ###	Extensions
