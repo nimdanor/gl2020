@@ -11,7 +11,7 @@ L'enseignant doit cumuler un nombre minimum de 192H de cours.
 > **Déclencheur** : Demande de renseignement de voeux par les responsables de filières  
 > **Acteur Primaire**: Enseignant   
 > **Acteurs secondaires**: Responsable de filière   
-> **Parties Prenantes concernées** : Etudiants  
+> **Parties Prenantes concernées** :
  
  
 ## Preconditions
