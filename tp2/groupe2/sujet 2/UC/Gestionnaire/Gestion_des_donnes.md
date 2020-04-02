@@ -1,5 +1,3 @@
-
-
 # Cas d'utilisation N° 1 :  Gestion des données des cartes
 
 Niveau Objectif Utilisateur
@@ -14,8 +12,7 @@ Il est également responsable de la vérification de l'intégrité de ces derni�
 > **Acteur Primaire**: Gestionnaire   
 > **Acteurs secondaires**: -
 > **Parties Prenantes concernées** : -
- 
- 
+  
 ## Preconditions
 
 Le gestionnaire doit avoir à sa disposition une interface permettant d'insérer des données provenant de sources externes (BDD).
@@ -23,16 +20,16 @@ Il a également besoin d'une interface lui permettant de modifier les données i
 
 ## Scenario Nominal
 
-1.	
-2.	TODO  
+1.	Connexion à l'interface d'administration
+2.	
 3.	TODO  
 4.	TODO  
 
 ###	Extensions
+
 FIXME Moins bien _[Document alternate flows and exceptions to the main success scenario. Extensions are branches from the main scenario, and numbering should align with the step of the success scenario where the branch occurs.]_
 
 FIXME Indiquez dans quel point du scenario nominal le chemin alternatif démarre et ou il reprend.
-
 
 ## Post Conditions
 ### Conditions de succès 
@@ -43,7 +40,6 @@ FIXME _[Describe the guarantee or assurance that this Use Case provides to all A
 
 ### Conditions final en cas d'échec
 FIXME _[Describe the end condition that results if the Primary Actor fails to accomplish his goal.]_
-
 
 FIXME _les variables suivantes sont optionnelles._
 
@@ -63,4 +59,3 @@ FIXME définir ce qui pose problème dans la description **actuelle** du cas d'u
 FIXME vous pouvez ajouter ici un lien vers une issue github ou un carte de projet github.
 
 TBR
-
