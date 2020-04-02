@@ -1,4 +1,4 @@
-# Cas d'utilisation N° 1 : Renseigner les compétences à acquérir par l'étudiant de la formation
+# Cas d'utilisation N° 1 : Consulter les compétences académiques et profesionnelles à acquises par l'étudiant suivant la formation
 
 Niveau Utilisateur
 
@@ -6,7 +6,7 @@ Niveau Utilisateur
 Permet à un responsable de formation de suivre les compétences acquises par les étudiants.
 
 > **Niveau** : Utilisateur
-> **Déclencheur** : Se déclenche lorsqu'un resposanble de formation souhaite consulter les compétences des étudiants.
+> **Déclencheur** : Se déclenche lorsqu'un responsable de formation souhaite consulter les compétences des étudiants.
 > **Acteur Primaire**: Utilisateur   
 > **Acteurs secondaires**: Aucun   
 > **Parties Prenantes concernées** : Aucune  
@@ -22,7 +22,7 @@ Permet à un responsable de formation de suivre les compétences acquises par le
 1.	Le responsable de formation se connecte à l'application
 2.	Il recherche la formation concerné
 3.	Il selectionne un etudiant
-4.	Il consulte les compétences acquise par l'étudiant
+4.	Il consulte les compétences acquises par l'étudiant
 
 ###	Extensions
 Aucunes
