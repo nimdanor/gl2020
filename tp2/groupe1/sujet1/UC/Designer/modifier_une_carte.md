@@ -1,13 +1,19 @@
-# Cas d'utilisation N° {{nbuc}} :  {{ucname}}
+# Cas d'utilisation N° 1 : Modifier une carte
 
-Niveau {{order}}
+Niveau Haut niveau
 
 ##	Description
 
-{{comment}}
+Le Designer doit être en capacité de modifier/éditer :
+- Le titre de la carte
+- Les crédits
+- Liste des taxons
+- L'échelle
+- Le format du nom de sortie
+- Résolution en sortie
+- Valeur ajoutée -> Une légende
 
-FIXME _[One to two sentences that briefly describe the use case, including the primary actor’s goal]_   
-FIXME N'oubliez pas de mensioner le concept **[{{concept}}](https://github.com/PremierLangage/plconception/blob/master/conception/concept/{{concept}}.md)**  
+L'objectif du Designer est de modifier/éditer une carte dans le but d'être imprimée/vendue/partagée.
 
 > **Niveau** :Haut niveau, Résumé, objectif utilisateur, sous fonction, Bas niveau , FIXME Remove unused   
 > **Déclencheur** : _[Describe the event that initiates the use case.]_ TODO  
@@ -15,11 +21,10 @@ FIXME N'oubliez pas de mensioner le concept **[{{concept}}](https://github.com/P
 > **Acteurs secondaires**: TODO   
 > **Parties Prenantes concernées** : TODO   
  
- 
 ## Preconditions
 
 FIXME Listez les conditions nécessaire pour que ce cas d'utilisation puisse avoir lieux
-
+Il faut que la carte ai été créée.
 
 ## Scenario Nominal
 
