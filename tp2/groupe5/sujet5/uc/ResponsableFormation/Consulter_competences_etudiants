@@ -38,7 +38,8 @@ FIXME _[Describe the guarantee or assurance that this Use Case provides to all A
 Aucune compétence n'a été renseigné dans l'onglet "renseigner les compétences de la formation"
 
 ### Frequence
-FIXME _[Indicate how often the use case is expected to occur. This information aids designers and developers in understanding capacity requirements.]_   
+Hebdomadaire
+
 ### Besoins Spéciaux (optionel)  
 FIXME _[Describe any additional factors that impact the execution of the use case. These could be environmental, regulatory, organizational or market-driven in nature.]_  
 ### Performance  
@@ -51,5 +52,3 @@ FIXME _[Note any issues related to the definition of this use case that will req
 
 FIXME définir ce qui pose problème dans la description **actuelle** du cas d'utilisation.  
 FIXME vous pouvez ajouter ici un lien vers une issue github ou un carte de projet github.
-
-TBR
