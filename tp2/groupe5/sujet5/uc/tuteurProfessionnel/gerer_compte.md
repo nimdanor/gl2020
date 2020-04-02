@@ -28,7 +28,8 @@ Le tuteur professionnel peut gérer les paramètres de son compte.
 - Il peut modifier son prénom
 - Il peut modifier son nom
 - Il peut modifier son métier
-4. Il peut se déconnecter
+4. Il doit cliquer sur le bouton "Valider" pour valider ses modification
+5. Il peut se déconnecter
 
 
 ###	Extensions
