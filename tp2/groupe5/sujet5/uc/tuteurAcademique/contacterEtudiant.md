@@ -1,8 +1,4 @@
-Echanger avec l'étudiant (messagerie instantanée/system de mail dans l'app)
-
-
-
-# Cas d'utilisation N° 2 :  Echanger avec l'étudiant 
+# Cas d'utilisation N° 3 :  Echanger avec l'étudiant 
 
 Niveau objectif utilisateur
 

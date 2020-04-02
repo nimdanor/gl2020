@@ -1,4 +1,4 @@
-# Cas d'utilisation N° 4 :  Voir les documents de l'étudiant
+# Cas d'utilisation N° 2 :  Voir les documents de l'étudiant
 
 Niveau: objectif utilisateur
 

@@ -1,6 +1,4 @@
-
-
-# Cas d'utilisation N° 5 :  Remplir document de suivi
+# Cas d'utilisation N° 1 :  Remplir document de suivi
 
 Niveau objectif utilisateur
 
@@ -25,7 +23,7 @@ Niveau objectif utilisateur
 2.	Il selectionne l'étudiant cible dans la liste de ces étudiants
 3.	Il clique sur l'onglet "Suivi"
 4.	Il clique sur l'onglet "Documents à remplir"
-5.  CLique sur un document
+5.  Clique sur un document à remplir
 6.  Remplir / uploader le document  
 7.  Clique sur "enregistrer"
 

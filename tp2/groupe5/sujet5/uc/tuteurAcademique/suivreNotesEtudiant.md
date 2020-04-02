@@ -1,4 +1,4 @@
-# Cas d'utilisation N° 1 :  Suivi les notes d'un étudiant
+# Cas d'utilisation N° 5 :  Suivi les notes d'un étudiant
 
 Niveau: objectif utilisateur
 
@@ -39,6 +39,7 @@ Niveau: objectif utilisateur
   -  Matières
   -  Note dans chaque matières
   -  Moyenne par rapport la promo
+  -  TODO: Ajouter des élements de l'interface
 - Possibiliter de trier les informations
  
 ### Conditions final en cas d'échec
@@ -60,9 +61,3 @@ Niveau: objectif utilisateur
 ###	Other  
 
 ##	Problèmes et étapes suivantes  
-FIXME _[Note any issues related to the definition of this use case that will require clarification prior to development. Also list any follow-up work that needs to be done prior to sign-off on the use case.]_  
-
-FIXME définir ce qui pose problème dans la description **actuelle** du cas d'utilisation.  
-FIXME vous pouvez ajouter ici un lien vers une issue github ou un carte de projet github.
-
-TBR
