@@ -15,11 +15,8 @@ Niveau objectif utilisateur
  
  
 ## Preconditions
-1.	L'enseignant se logge sur la plateforme
-2.	Il selectionne l'étudiant cible dans la liste de ces étudiants
-3.	Il est sur la page "Suivi académique"
-4.  Clique sur "Document a remplir"
-5.	Acceder à la liste des documents a remplirs
+- Etre logger sur la plateforme
+- Etre sur la page "Suivi académique"
 
 
 ## Scenario Nominal
