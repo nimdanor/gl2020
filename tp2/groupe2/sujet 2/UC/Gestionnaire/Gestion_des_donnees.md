@@ -76,5 +76,3 @@
 ##	Problèmes et étapes suivantes  
 
 -
-
-TBR
