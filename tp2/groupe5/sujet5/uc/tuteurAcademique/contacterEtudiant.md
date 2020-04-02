@@ -10,7 +10,7 @@ Niveau objectif utilisateur
 - Contacter l'étudiant via un système de messagerie
 
 > **Niveau** Objectif utilisateur   
-> **Déclencheur** : Cliquer sur l'onglet "Messagerie étudiant" 
+> **Déclencheur** : Cliquer sur l'onglet "Messagerie étudiant"   
 > **Acteur Primaire**: Tuteur académique      
 > **Acteurs secondaires**: TODO   
 > **Parties Prenantes concernées** : TODO   
