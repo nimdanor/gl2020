@@ -8,9 +8,9 @@ FIXME _[One to two sentences that briefly describe the use case, including the p
 
 Ce use case décrit comment l'enseignant accède aux informations de l'étudiant. L'enseignant peut alors utiliser ces informations pour établir un contact avec l'étudiant ou son tuteur école
 
-> **Niveau** : sous fonction
-> **Déclencheur** : L'enseignant souhaite prendre contact avec l'étudiant ou son tuteur école mais n'a pas les informations pour.
-> **Acteur Primaire**: Enseignant   
+> **Niveau** : sous fonction  
+> **Déclencheur** : L'enseignant souhaite prendre contact avec l'étudiant ou son tuteur école mais n'a pas les informations pour.  
+> **Acteur Primaire**: Enseignant    
 > **Acteurs secondaires**: Etudiant, Tuteur Enseignant   
 > **Parties Prenantes concernées** : TODO   
  
