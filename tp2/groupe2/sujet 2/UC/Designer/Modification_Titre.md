@@ -21,7 +21,6 @@ FIXME - Les cartes créées préalablement ont besoin d'être personnalisées pa
 FIXME - Une carte doit être créée.
 FIXME - Le titre doit être validé au préalable avant la modification.
 
-
 ## Scenario Nominal
 
 1.	TODO  
