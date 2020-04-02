@@ -4,10 +4,10 @@ Niveau 1
 
 ##	Description
 
-Suivre l'apprenti pendant sa période académique
+Consulter les documents concernant l'alternance de l'apprenti.
 
 > **Niveau** :Résumé, objectif utilisateur
-> **Déclencheur** : Le tuteur professionnel souhaite suivre son apprenti pendant la période acédémique
+> **Déclencheur** : Le tuteur professionnel souhaite consulter tous les documents concernant son apprenti
 > **Acteur Primaire**: Tuteur professionnel 
 > **Acteurs secondaires**: Etudiant, Enseignant, Tuteur, Académique, Responsable Formation
 > **Parties Prenantes concernées** : TODO   
@@ -17,14 +17,20 @@ Suivre l'apprenti pendant sa période académique
 
 - Le tuteur doit avoir un compte dans l'application.
 - Le tuteur doit avoir un ou plusieurs apprenti
+- Des documents doivent être disponible sur la plateforme
 
 
 ## Scenario Nominal
 
 1.	Le tuteur se connecte à l'application
 2.	Il recherche son apprenti
-3.  Il va dans l'onglet "Suivi"
-4.	Il peut consulter les absences de son apprent et résultats scolaire.
+3. Il va dans l'onglet "Documents"
+4.	
+- Il peut consulter le calendrier d'alternance de l'apprenti
+- Il peut consulter le contrat d'apprentissage de l'apprenti
+- Il peut voir les contacts académqique de l'apprenti (responsable de formation et tuteur académique).
+- Il peut voir les contacts du CFA de l'apprenti
+
 
 ###	Extensions
 FIXME Moins bien _[Document alternate flows and exceptions to the main success scenario. Extensions are branches from the main scenario, and numbering should align with the step of the success scenario where the branch occurs.]_
@@ -35,14 +41,14 @@ FIXME Indiquez dans quel point du scenario nominal le chemin alternatif démarre
 ## Post Conditions
 ### Conditions de succès 
 
-Le tuteur à pu consulter les abscences et/ou les résultats de son apprenti
+Le tuteur à pu consulter les documents qu'il souhaitait
 
 ### Minimal Guarantees
 FIXME _[Describe the guarantee or assurance that this Use Case provides to all Actors and Stakeholders to protect their interest regardless of whether the Use Case ends with success or failure.]_
 
 ### Conditions final en cas d'échec
 
-Le tuteur n'a pas pu consulter les absences et résultats de son apprenti.
+Le tuteur n'a pas pu consulter les documents de son apprenti
 
 FIXME _les variables suivantes sont optionnelles._
 
