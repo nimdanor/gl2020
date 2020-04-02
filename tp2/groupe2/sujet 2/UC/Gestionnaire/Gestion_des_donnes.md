@@ -18,14 +18,12 @@ Il est également responsable de la vérification de l'intégrité de ces derni�
  
 ## Preconditions
 
-FIXME Listez les conditions nécessaire pour que ce cas d'utilisation puisse avoir lieux
-
+Le gestionnaire doit avoir à sa disposition une interface permettant d'insérer des données provenant de sources externes (BDD).
+Il a également besoin d'une interface lui permettant de modifier les données intégrées au système.
 
 ## Scenario Nominal
 
-FIXME_[tout ce passe bien c'est le scénario parfait .]_
-
-1.	TODO  
+1.	
 2.	TODO  
 3.	TODO  
 4.	TODO  
