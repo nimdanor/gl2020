@@ -10,10 +10,10 @@ anticiper les besoins en nourriture en conséquence.
 FIXME N'oubliez pas de mentionner le concept **[{{concept}}](https://github.com/PremierLangage/plconception/blob/master/conception/concept/{{concept}}.md)**  
 
 > **Niveau** :Haut niveau, Résumé, objectif utilisateur, sous fonction, Bas niveau , FIXME Remove unused   
-> **Déclencheur** : _[Describe the event that initiates the use case.]_ TODO  
-> **Acteur Primaire**: Utilisateur   
-> **Acteurs secondaires**: TODO   
-> **Parties Prenantes concernées** : TODO   
+> **Déclencheur** : "C'est l'heure de manger!" 
+> **Acteur Primaire**: Salarié CROUS
+> **Acteurs secondaires**: Etudiant
+> **Parties Prenantes concernées** : CRI - UGE
  
  
 ## Preconditions
@@ -29,7 +29,7 @@ information sur un écran visible par les salariés du CROUS.
 3.	Le système affiche sur un écran visible par les salariés CROUS le nombre d'élèves en train de faire la queue
 4.	Le salarié CROUS prépare les quantités de nourriture en conséquence
 
-###	Extensions
+### Extensions
 
 Si le système n'arrive pas à analyser la queue (2) ou que l'affichage ne fonctionne pas (3), alors le salarié CROUS 
 doit faire confiance à son instinct de professionnel de la restauration.
