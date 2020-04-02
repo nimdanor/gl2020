@@ -4,16 +4,13 @@ Niveau 0
 
 ##	Description
 
-L'archéologue doit pouvoir afficher la cartographie des données sur l'application ainsi qu'éditer ces données extraites du logiciel.
+L'archéologue doit pouvoir afficher la cartographie des données sur l'application ainsi qu'éditer et enregistrer ces données extraites du logiciel.
 
-FIXME _[One to two sentences that briefly describe the use case, including the primary actor’s goal]_   
-FIXME N'oubliez pas de mensioner le concept **[{{concept}}](https://github.com/PremierLangage/plconception/blob/master/conception/concept/{{concept}}.md)**  
-
-> **Niveau** :Haut niveau, Résumé, objectif utilisateur, sous fonction, Bas niveau , FIXME Remove unused   
-> **Déclencheur** : _[Describe the event that initiates the use case.]_ TODO  
-> **Acteur Primaire**: Utilisateur   
-> **Acteurs secondaires**: TODO   
-> **Parties Prenantes concernées** : TODO   
+> **Niveau** :  Haut niveau
+> **Déclencheur** : Lorsque l'archéologue a réalisé des modifications et qu'il veut les publier.
+> **Acteur Primaire**: Archéologue 
+> **Acteurs secondaires**: AGOL, QGIS 
+> **Parties Prenantes concernées** :    
  
  
 ## Preconditions
