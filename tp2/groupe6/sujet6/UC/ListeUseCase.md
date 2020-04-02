@@ -15,6 +15,7 @@ Prérequis pour chaque use case.
 ## Secretaire
 * Consulter les notes
 * Traiter les notes
+* Organiser les sessions
 ## Apprenti
 * Organiser les groupes d'apprentis
 * Consulter les notes personnelles
