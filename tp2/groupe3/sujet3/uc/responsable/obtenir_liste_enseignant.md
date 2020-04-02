@@ -4,8 +4,6 @@ Niveau 3
 
 ##	Description
 
-{{comment}}
-
 Acces a la liste des enseignants inscrits sur la formation dont l'utilisateur est responsable
 
 > **Déclencheur** :L'utilisateur veux consulter la liste des enseignants  
