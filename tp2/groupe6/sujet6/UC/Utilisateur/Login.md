@@ -44,7 +44,7 @@ ___
 Si l'authentification réussie, l'utilisateur est connecté.
 
 ### Minimal Guarantees
-FIXME _[Describe the guarantee or assurance that this Use Case provides to all Actors and Stakeholders to protect their interest regardless of whether the Use Case ends with success or failure.]_
+La page de connexion est disponible pour les utilisateurs non connectés. 
 
 ### Conditions final en cas d'échec
 En cas d'échec, un utilisateur ne doit pas être connecté.
