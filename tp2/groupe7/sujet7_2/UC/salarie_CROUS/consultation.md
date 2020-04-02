@@ -7,6 +7,8 @@ Niveau __Objectif utilisateur__
 Un salarié du CROUS doit pouvoir consulter l'état de la file d'attente afin de pouvoir 
 anticiper les besoins en nourriture en conséquence.
 
+L'état de la file d'attente est le nombre de personnes s'y trouvant actuellement associé au temps estimé pour obtenir son repas.
+
 FIXME N'oubliez pas de mentionner le concept **[{{concept}}](https://github.com/PremierLangage/plconception/blob/master/conception/concept/{{concept}}.md)**  
 
 > **Niveau** :Haut niveau, Résumé, objectif utilisateur, sous fonction, Bas niveau , FIXME Remove unused   
@@ -15,9 +17,9 @@ FIXME N'oubliez pas de mentionner le concept **[{{concept}}](https://github.com/
 
 > **Acteur Primaire**: Salarié CROUS
 
-> **Acteurs secondaires**: Etudiant, Ecran, Caméra
+> **Acteurs secondaires**: CRI
 
-> **Parties Prenantes concernées** : CRI - UGE
+> **Parties Prenantes concernées** :  - UGE
  
  
 ## Preconditions
@@ -44,6 +46,7 @@ doit faire confiance à son instinct de professionnel de la restauration.
 Le salarié arrive à estimer précisemment la quantité de nourriture nécessaire, ce qui évite le gachis. 
 
 ### Minimal Guarantees
+
 FIXME _[Describe the guarantee or assurance that this Use Case provides to all Actors and Stakeholders to protect their interest regardless of whether the Use Case ends with success or failure.]_
 
 ### Conditions final en cas d'échec
