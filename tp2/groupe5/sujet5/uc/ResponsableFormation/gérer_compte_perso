@@ -21,7 +21,7 @@ Doit  aussi être capable d'utiliser d'utiliser un logiciel avec une interface g
 ## Scenario Nominal
 
 1.	Le responsable de formation se connecte à l'application
-2.	Il rentre dans l'onglet "Espace personnel" 
+2.	Il rentre dans l'onglet "Espace personnel
 3.	Il ajoute, modifie ou supprime ses informations
 
 ###	Extensions
@@ -32,7 +32,7 @@ Aucunes
 Les informations perso sont bien renseignées.
 
 ### Minimal Guarantees
-FIXME _[Describe the guarantee or assurance that this Use Case provides to all Actors and Stakeholders to protect their interest regardless of whether the Use Case ends with success or failure.]_
+- Affichage de la page web correspondante
 
 ### Conditions final en cas d'échec
 Les informations ne sont pas modifiables (nécéssite un droit admin).
@@ -51,5 +51,3 @@ FIXME _[Note any issues related to the definition of this use case that will req
 
 FIXME définir ce qui pose problème dans la description **actuelle** du cas d'utilisation.  
 FIXME vous pouvez ajouter ici un lien vers une issue github ou un carte de projet github.
-
-TBR
