@@ -1,16 +1,13 @@
-# Cas d'utilisation N° {{nbuc}} :  cri
+# Cas d'utilisation N° {{_}} :  cri_assistance
 
-Niveau {{order}}
+Niveau {{__}
 
 ##	Description
 
-{{comment}}
-
-Administration et maintenance de la platefrome.  
-FIXME N'oubliez pas de mensioner le concept **[{{concept}}](https://github.com/PremierLangage/plconception/blob/master/conception/concept/{{concept}}.md)**  
+Le CRI aura comme rôle, d'assister les différentes personnes qui rencontre un problème avce la plateforme. []
 
 > **Niveau** :Haut niveau 
-> **Déclencheur** : _[Describe the event that initiates the use case.]_ TODO  
+> **Déclencheur** : Réception de Ticket 
 > **Acteur Primaire**: Utilisateur   
 > **Acteurs secondaires**: Salariés CROUS
 > **Parties Prenantes concernées** : __   
@@ -43,22 +40,17 @@ Garantie à l'ensemble des utilisateurs la continuité du service offert par la 
 ### Conditions final en cas d'échec
 La plateforme ne pourra plus être utilisable.
 
-
-FIXME _les variables suivantes sont optionnelles._
-
 ### Frequence
 Everyday   
 ### Besoins Spéciaux (optionel)  
-FIXME _[Describe any additional factors that impact the execution of the use case. These could be environmental, regulatory, organizational or market-driven in nature.]_  
+Ecran et caméras utilisées, doivent ne pas dépacé un certain budget.
 ### Performance  
+
 ###	Security  
+
 ###	Usability / Accessibility  
+
 ###	Other  
 
 ##	Problèmes et étapes suivantes  
-FIXME _[Note any issues related to the definition of this use case that will require clarification prior to development. Also list any follow-up work that needs to be done prior to sign-off on the use case.]_  
-
-FIXME définir ce qui pose problème dans la description **actuelle** du cas d'utilisation.  
-FIXME vous pouvez ajouter ici un lien vers une issue github ou un carte de projet github.
-
-TBR
+Maintenance de la plateforme.
