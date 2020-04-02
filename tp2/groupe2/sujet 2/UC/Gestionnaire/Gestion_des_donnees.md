@@ -38,20 +38,24 @@ Il a également besoin d'une interface lui permettant de modifier les données i
 
 ## Post Conditions
 ### Conditions de succès 
-FIXME _[Describe the end condition of the Use Case where the Primary Actor’s goal is satisfied]_
+
+Les modifications effectuées doivent apparaître au sein du système une fois la validation effectuée.
 
 ### Minimal Guarantees
-FIXME _[Describe the guarantee or assurance that this Use Case provides to all Actors and Stakeholders to protect their interest regardless of whether the Use Case ends with success or failure.]_
+
+-
 
 ### Conditions final en cas d'échec
-FIXME _[Describe the end condition that results if the Primary Actor fails to accomplish his goal.]_
 
-FIXME _les variables suivantes sont optionnelles._
+-
 
 ### Frequence
-FIXME _[Indicate how often the use case is expected to occur. This information aids designers and developers in understanding capacity requirements.]_   
+
+- Faible
+
 ### Besoins Spéciaux (optionel)  
-FIXME _[Describe any additional factors that impact the execution of the use case. These could be environmental, regulatory, organizational or market-driven in nature.]_  
+
+
 ### Performance  
 ###	Security  
 ###	Usability / Accessibility  
