@@ -38,7 +38,8 @@ Les informations perso sont bien renseignées.
 Les informations ne sont pas modifiables (nécéssite un droit admin).
 
 ### Frequence
-FIXME _[Indicate how often the use case is expected to occur. This information aids designers and developers in understanding capacity requirements.]_   
+En fonction de l'utilisateur
+
 ### Besoins Spéciaux (optionel)  
 FIXME _[Describe any additional factors that impact the execution of the use case. These could be environmental, regulatory, organizational or market-driven in nature.]_  
 ### Performance  
