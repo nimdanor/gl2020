@@ -4,19 +4,19 @@ Prérequis pour chaque use case.
 ## Evaluation de rapport d'alternance
 
 ## Utilisateur
-* *Authentification sur le site* [ici](./Utilisateur/Login.md)
+* 01 *Authentification sur le site* [ici](./Utilisateur/Login.md)
 ## Enseignant
-* Organiser les sessions
-* Organiser les groupes d'étudiants
-* *Construire une grille critériée*
+* 02 Organiser les sessions
+* 03 Organiser les groupes d'étudiants
+* 04 *Construire une grille critériée*
 ## Jury
-* Consulter les notes
-* *Evaluer l'apprenti*
+* 05 Consulter les notes
+* 06 *Evaluer l'apprenti*
 ## Secretaire
-* Consulter les notes
-* *Traiter les notes*
-* Organiser les sessions
+* 07 Consulter les notes
+* 08 *Traiter les notes*
+* 09 Organiser les sessions
 ## Apprenti
-* Organiser les groupes d'apprentis
-* *Consulter les notes personnelles*
-* Consulter les sessions personnelles
+* 10 Organiser les groupes d'apprentis
+* 11 *Consulter les notes personnelles*
+* 12 Consulter les sessions personnelles
