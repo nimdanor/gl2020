@@ -2,14 +2,12 @@
 
 Niveau __Objectif utilisateur__
 
-##	Description
-
-{{comment}}
+## Description
 
 Un salarié du CROUS doit pouvoir consulter l'état de la file d'attente afin de pouvoir 
 anticiper les besoins en nourriture en conséquence.
 
-FIXME N'oubliez pas de mensioner le concept **[{{concept}}](https://github.com/PremierLangage/plconception/blob/master/conception/concept/{{concept}}.md)**  
+FIXME N'oubliez pas de mentionner le concept **[{{concept}}](https://github.com/PremierLangage/plconception/blob/master/conception/concept/{{concept}}.md)**  
 
 > **Niveau** :Haut niveau, Résumé, objectif utilisateur, sous fonction, Bas niveau , FIXME Remove unused   
 > **Déclencheur** : _[Describe the event that initiates the use case.]_ TODO  
@@ -26,8 +24,6 @@ information sur un écran visible par les salariés du CROUS.
 
 ## Scenario Nominal
 
-FIXME_[tout ce passe bien c'est le scénario parfait .]_
-
 1.	Les élèves font la queue
 2.	Le système analyse la queue via la caméra
 3.	Le système affiche sur un écran visible par les salariés CROUS le nombre d'élèves en train de faire la queue
@@ -38,22 +34,28 @@ FIXME Moins bien _[Document alternate flows and exceptions to the main success s
 
 FIXME Indiquez dans quel point du scenario nominal le chemin alternatif démarre et ou il reprend.
 
+Si le système n'arrive pas à analyser la queue (2) ou que l'affichage ne fonctionne pas (3), alors le salarié CROUS 
+doit faire confiance à son instinct de professionnel de la restauration.
 
 ## Post Conditions
 ### Conditions de succès 
-FIXME _[Describe the end condition of the Use Case where the Primary Actor’s goal is satisfied]_
+
+Le salarié arrive à estimer précisemment la quantité de nourriture nécessaire, ce qui évite le gachis. 
 
 ### Minimal Guarantees
 FIXME _[Describe the guarantee or assurance that this Use Case provides to all Actors and Stakeholders to protect their interest regardless of whether the Use Case ends with success or failure.]_
 
 ### Conditions final en cas d'échec
-FIXME _[Describe the end condition that results if the Primary Actor fails to accomplish his goal.]_
+
+Il y a un gachis de nourriture.
 
 
 FIXME _les variables suivantes sont optionnelles._
 
 ### Frequence
-FIXME _[Indicate how often the use case is expected to occur. This information aids designers and developers in understanding capacity requirements.]_   
+
+Ce cas d'utilisation aura lieu à tous les repas du midi.
+
 ### Besoins Spéciaux (optionel)  
 FIXME _[Describe any additional factors that impact the execution of the use case. These could be environmental, regulatory, organizational or market-driven in nature.]_  
 ### Performance  
