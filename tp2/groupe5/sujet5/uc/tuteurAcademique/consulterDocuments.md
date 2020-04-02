@@ -37,7 +37,7 @@ Niveau: objectif utilisateur
 - Interface ergonomique et claire:
   -  Photo 
   -  Numéro étudiant
-  -  ...
+  -  TODO: Ajouter infos pertinants 
 - Possibiliter d'exporter ces informations
  
 ### Conditions final en cas d'échec
