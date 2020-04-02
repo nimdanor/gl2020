@@ -1,4 +1,4 @@
-# Cas d'utilisation N° {{nbuc}} :  {{Consultation}}
+# Cas d'utilisation N° {{nbuc}} :  Consultation de la queue
 
 Niveau __Objectif utilisateur__
 
@@ -30,9 +30,6 @@ information sur un écran visible par les salariés du CROUS.
 4.	Le salarié CROUS prépare les quantités de nourriture en conséquence
 
 ###	Extensions
-FIXME Moins bien _[Document alternate flows and exceptions to the main success scenario. Extensions are branches from the main scenario, and numbering should align with the step of the success scenario where the branch occurs.]_
-
-FIXME Indiquez dans quel point du scenario nominal le chemin alternatif démarre et ou il reprend.
 
 Si le système n'arrive pas à analyser la queue (2) ou que l'affichage ne fonctionne pas (3), alors le salarié CROUS 
 doit faire confiance à son instinct de professionnel de la restauration.
