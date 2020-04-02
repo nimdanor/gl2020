@@ -1,6 +1,6 @@
 # Cas d'utilisation N° 1 : Modifier une carte
 
-Niveau Haut niveau
+Niveau : Haut niveau
 
 ##	Description
 
