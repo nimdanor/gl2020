@@ -52,7 +52,9 @@ En cas d'échec, un utilisateur ne doit pas être connecté.
 ### Frequence
 FIXME _[Indicate how often the use case is expected to occur. This information aids designers and developers in understanding capacity requirements.]_   
 ### Besoins Spéciaux (optionel)  
-FIXME _[Describe any additional factors that impact the execution of the use case. These could be environmental, regulatory, organizational or market-driven in nature.]_  
+
+ - HTTPS
+
 ### Performance  
 ###	Security  
 ###	Usability / Accessibility  
