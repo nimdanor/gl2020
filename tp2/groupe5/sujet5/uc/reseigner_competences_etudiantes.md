@@ -3,7 +3,7 @@
 Niveau Utilisateur
 
 ##	Description
-Permet à un responsable de formation de renseigner les informations liées aux compétences que doivent acquérir 
+Permet à un responsable de formation de renseigner les informations liées aux compétences que doit acquérir 
 l'étudiant suivant la formation.
 
 > **Niveau** : Utilisateur
