@@ -1,4 +1,4 @@
-# Cas d'utilisation N° 8 :  consulter_les_statistiques
+# Cas d'utilisation N° 8 :  Consulter les statistiques
 
 Niveau 1
 
