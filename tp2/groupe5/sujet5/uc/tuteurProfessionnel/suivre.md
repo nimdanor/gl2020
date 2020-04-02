@@ -4,12 +4,12 @@ Niveau 1
 
 ##	Description
 
-Suivre l'apprenti pendant sa période académique
+Suivre l'apprenti à tuteuré pendant sa période académique
 
 > **Niveau** :Résumé, objectif utilisateur
-> **Déclencheur** : Le tuteur professionnel souhaite suivre son apprenti pendant la période acédémique
+> **Déclencheur** : Le tuteur professionnel souhaite suivre son apprenti sur une période acédémique
 > **Acteur Primaire**: Tuteur professionnel 
-> **Acteurs secondaires**: Etudiant, Enseignant, Tuteur, Académique, Responsable Formation
+> **Acteurs secondaires**: Etudiant, Enseignant, Tuteur Académique, Responsable Formation
 > **Parties Prenantes concernées** : TODO   
  
  
@@ -17,14 +17,16 @@ Suivre l'apprenti pendant sa période académique
 
 - Le tuteur doit avoir un compte dans l'application.
 - Le tuteur doit avoir un ou plusieurs apprenti
+- L'apprenti doit être en cours de période académique ou doit avoir déjà terminé une période académique
 
 
 ## Scenario Nominal
 
 1.	Le tuteur se connecte à l'application
-2.	Il recherche son apprenti
-3.  Il va dans l'onglet "Suivi"
-4.	Il peut consulter les absences de son apprent et résultats scolaire.
+2.	Il recherche l'apprenti qu'il souhaite suivre
+3. Il va dans l'onglet "Suivi"
+4.	Il peut consulter les absences de son apprenti et résultats scolaire sur l'ensemble de sa période académqieu.
+5. Il peut sélectionner une période académique pour affiner les données à suivre
 
 ###	Extensions
 FIXME Moins bien _[Document alternate flows and exceptions to the main success scenario. Extensions are branches from the main scenario, and numbering should align with the step of the success scenario where the branch occurs.]_
