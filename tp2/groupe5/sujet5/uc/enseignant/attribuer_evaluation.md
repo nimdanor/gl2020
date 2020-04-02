@@ -6,8 +6,8 @@ Niveau Objectif utilisateur
 
 Ce use case concerne l'attribution d'une évaluation de compétences. L'enseignant veut attribuer une évaluation de la compétence d'un étudiant lorsque la compétence est liée à sa matière.
 
-> **Niveau** : Objectif utilisateur
-> **Déclencheur** : Au cours de la formation, l'enseignant a pu évaluer les compétences
+> **Niveau** : Objectif utilisateur  
+> **Déclencheur** : Au cours de la formation, l'enseignant a pu évaluer les compétences  
 > **Acteur Primaire**: Enseignant   
 > **Acteurs secondaires**: Etudiant   
 > **Parties Prenantes concernées** : TODO   
