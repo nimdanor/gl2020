@@ -10,8 +10,8 @@ Le Designer doit être en capacité de modifier/éditer :
 - Liste des taxons
 - L'échelle
 - Le format du nom de sortie
-- Résolution en sortie
-- Valeur ajoutée -> Une légende
+- La résolution en sortie
+- La légende
 
 L'objectif du Designer est de modifier/éditer une carte dans le but d'être imprimée/vendue/partagée.
 
