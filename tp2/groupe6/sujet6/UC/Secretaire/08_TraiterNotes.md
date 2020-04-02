@@ -3,29 +3,29 @@
 
 ##	Description
 
-Affichage et calculs statistiques sur les notes déjà entrées par l'évaluateur.
+Affichage et calculs statistiques sur les notes déjà entrées par l'évaluateur. Le secrétaire doit pouvoir récupérer les notes et les avoir automatiquement sous une forme partageable :
+* Pour les apprentis : Note personnelle multicritériée, classement.
+* Pour les enseignants : Ensemble des notes multicritériées sous forme d'un tableau avec calculs statistiques le cas échéant.
 
-FIXME _[One to two sentences that briefly describe the use case, including the primary actor’s goal]_   
-
-> **Niveau** :Haut niveau, Résumé, objectif utilisateur, sous fonction, Bas niveau , FIXME Remove unused   
-> **Déclencheur** : _[Describe the event that initiates the use case.]_ TODO  
+> **Déclencheur** : Les soutenances sont terminées, il faut traiter et partager les notes.
 > **Acteur Primaire**: Secrétaire   
 > **Acteurs secondaires**: Evaluateur, Enseignant, Apprenti 
-> **Parties Prenantes concernées** : TODO   
+> **Parties Prenantes concernées** : Jury  
  
 ## Preconditions
 
-FIXME Listez les conditions nécessaire pour que ce cas d'utilisation puisse avoir lieux
-
+* Soutenances terminées
+* Notes saisies par les évaluateurs
 
 ## Scenario Nominal
 
 FIXME_[tout ce passe bien c'est le scénario parfait .]_
 
-1.	TODO  
-2.	TODO  
-3.	TODO  
-4.	TODO  
+1.	Les soutenances sont terminées et les notes ont été saisies.
+2.	Le.a secrétaire récupère l'ensemble des notes.
+3.	Le.a secrétaire saisi le type d'informations nécessaires (par exemple la moyenne)
+4.	Le.a secrétaire récupère les informations.
+5. Le.a secrétaire récupère les informations sous forme d'un tableau qui contient les informations sur les notes et les apprentis.
 
 ###	Extensions
 FIXME Moins bien _[Document alternate flows and exceptions to the main success scenario. Extensions are branches from the main scenario, and numbering should align with the step of the success scenario where the branch occurs.]_
@@ -35,7 +35,6 @@ FIXME Indiquez dans quel point du scenario nominal le chemin alternatif démarre
 
 ## Post Conditions
 ### Conditions de succès 
-FIXME _[Describe the end condition of the Use Case where the Primary Actor’s goal is satisfied]_
 Le/la secrétaire peut récupérer les notes d'un groupe / classe sous forme affichable directement (par exemple, tableau excel), ainsi que les calculs statistiques qui accompagnent les notes :
 
 * Moyenne
@@ -44,16 +43,17 @@ Le/la secrétaire peut récupérer les notes d'un groupe / classe sous forme aff
 * Classement
 
 ### Minimal Guarantees
-FIXME _[Describe the guarantee or assurance that this Use Case provides to all Actors and Stakeholders to protect their interest regardless of whether the Use Case ends with success or failure.]_
+Dans tous les cas, les notes doivent être récupérées, avec les différents critères et les apprentis associés.
 
 ### Conditions final en cas d'échec
-FIXME _[Describe the end condition that results if the Primary Actor fails to accomplish his goal.]_
-
+En cas d'échec, les notes sont perdues ou déréférencées par rapport aux apprentis.
 
 FIXME _les variables suivantes sont optionnelles._
 
+
 ### Frequence
-FIXME _[Indicate how often the use case is expected to occur. This information aids designers and developers in understanding capacity requirements.]_   
+A chaque fois qu'il y a une session de soutenances.
+
 ### Besoins Spéciaux (optionel)  
 FIXME _[Describe any additional factors that impact the execution of the use case. These could be environmental, regulatory, organizational or market-driven in nature.]_  
 ### Performance  
