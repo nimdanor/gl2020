@@ -15,6 +15,7 @@ Niveau: objectif utilisateur
 ## Preconditions
 
 - Etre logger sur la plateforme
+- Etre sur la page "Suivi académique"
 
 ## Scenario Nominal
 
