@@ -1,21 +1,19 @@
 
 
-# Cas d'utilisation N° 1 :  Importer des données
+# Cas d'utilisation N° 1 :  Gestion des données des cartes
 
-Niveau {{order}}
+Niveau Objectif Utilisateur
 
 ##	Description
 
-{{comment}}
+Le gestionnaire de données est responsable de l'import de nouvelles données qui seront ensuite affichées sur les cartes.
+Il est également responsable de la vérification de l'intégrité de ces dernières en les mettant à jour et en les supprimant dans certains cas.
 
-FIXME _[One to two sentences that briefly describe the use case, including the primary actor’s goal]_   
-FIXME N'oubliez pas de mensioner le concept **[{{concept}}](https://github.com/PremierLangage/plconception/blob/master/conception/concept/{{concept}}.md)**  
-
-> **Niveau** :Haut niveau, Résumé, objectif utilisateur, sous fonction, Bas niveau , FIXME Remove unused   
-> **Déclencheur** : _[Describe the event that initiates the use case.]_ TODO  
-> **Acteur Primaire**: Utilisateur   
-> **Acteurs secondaires**: TODO   
-> **Parties Prenantes concernées** : TODO   
+> **Niveau** : Objectif utilisateur
+> **Déclencheur** : Besoin d'ajout/de moficiation d'une donnée 
+> **Acteur Primaire**: Gestionnaire   
+> **Acteurs secondaires**: -
+> **Parties Prenantes concernées** : -
  
  
 ## Preconditions
