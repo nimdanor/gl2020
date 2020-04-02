@@ -8,9 +8,13 @@
 - Il est également responsable de la vérification de l'intégrité de ces dernières en les mettant à jour et en les supprimant dans certains cas.
 
 > **Niveau** : Objectif utilisateur
+
 > **Déclencheur** : Besoin d'ajout/de moficiation d'une donnée 
+
 > **Acteur Primaire**: Gestionnaire   
+
 > **Acteurs secondaires**: -
+
 > **Parties Prenantes concernées** : -
   
 ## Preconditions
