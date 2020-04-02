@@ -1,0 +1,55 @@
+# Cas d'utilisation N° 4 : Consulter les compétences acquises par les étudiant
+
+Niveau Utilisateur
+
+##	Description
+Permet à un responsable de formation de suivre les compétences acquises par les étudiants.
+
+> **Niveau** : Utilisateur
+> **Déclencheur** : Se déclenche lorsqu'un resposanble de formation souhaite consulter les compétences des étudiants.
+> **Acteur Primaire**: Utilisateur   
+> **Acteurs secondaires**: Aucun   
+> **Parties Prenantes concernées** : Aucune  
+ 
+ 
+## Preconditions
+
+- Doit être connecté à l'application en étant capable de créer et gérer son propre compte.
+- Doit  aussi être capable d'utiliser d'utiliser un logiciel avec une interface graphique.
+
+## Scenario Nominal
+
+1.	Le responsable de formation se connecte à l'application
+2.	Il recherche la formation concerné
+3.	Il selectionne un etudiant
+4.	Il consulte les compétences acquise par l'étudiant
+
+###	Extensions
+Aucunes
+
+## Post Conditions
+### Conditions de succès 
+Le responsable visualise avec succés l'onglet concerné.
+
+### Minimal Guarantees
+FIXME _[Describe the guarantee or assurance that this Use Case provides to all Actors and Stakeholders to protect their interest regardless of whether the Use Case ends with success or failure.]_
+
+### Conditions final en cas d'échec
+Aucune compétence n'a été renseigné dans l'onglet "renseigner les compétences de la formation"
+
+### Frequence
+FIXME _[Indicate how often the use case is expected to occur. This information aids designers and developers in understanding capacity requirements.]_   
+### Besoins Spéciaux (optionel)  
+FIXME _[Describe any additional factors that impact the execution of the use case. These could be environmental, regulatory, organizational or market-driven in nature.]_  
+### Performance  
+###	Security  
+###	Usability / Accessibility  
+###	Other  
+
+##	Problèmes et étapes suivantes  
+FIXME _[Note any issues related to the definition of this use case that will require clarification prior to development. Also list any follow-up work that needs to be done prior to sign-off on the use case.]_  
+
+FIXME définir ce qui pose problème dans la description **actuelle** du cas d'utilisation.  
+FIXME vous pouvez ajouter ici un lien vers une issue github ou un carte de projet github.
+
+TBR
