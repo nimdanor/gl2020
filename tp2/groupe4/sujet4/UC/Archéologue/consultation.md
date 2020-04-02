@@ -1,10 +1,10 @@
-# Cas d'utilisation N° {{nbuc}} :  {{ucname}}
+# Cas d'utilisation N° {{1}} :  {{Afficher la cartographie des données}}
 
-Niveau {{order}}
+Niveau {{0}}
 
 ##	Description
 
-{{comment}}
+{{L'archéologue doit pouvoir afficher la cartographie des données sur l'application.}}
 
 FIXME _[One to two sentences that briefly describe the use case, including the primary actor’s goal]_   
 FIXME N'oubliez pas de mensioner le concept **[{{concept}}](https://github.com/PremierLangage/plconception/blob/master/conception/concept/{{concept}}.md)**  
