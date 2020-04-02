@@ -56,19 +56,21 @@ FIXME Indiquez dans quel point du scenario nominal le chemin alternatif démarre
 ## Post Conditions
 ### Conditions de succès 
 FIXME _[Describe the end condition of the Use Case where the Primary Actor’s goal is satisfied]_
-Le but de l'étudiant est satisfait quand il prendra connaissance des matières pdégagogiques à travailler pour la période académique.
-Le but sera aussi atteint si l'étudiant peut accéder à une ressource associée à une activité pédagogique.
+Le but de l'étudiant est satisfait quand il prendra connaissance des attentes de son tuteur entreprise pour cette période.
+Le but sera aussi atteint si l'étudiant arrive à estimer et plannifier sa charge de travail.
+Son objectif sera également atteint s'il pourra évaluer son avancement pour son projet en entreprise.
 
 ### Minimal Guarantees
 FIXME _[Describe the guarantee or assurance that this Use Case provides to all Actors and Stakeholders to protect their interest regardless of whether the Use Case ends with success or failure.]_
 On doit garantir que l'accès à la ressource est rapide et facile (éviter trop de clic). 
 Les mots utilisés doivent être facilement compréhensible au premier coup d'oeil.
+Les missions doivent être catégorisées pour une meilleure compréhension.
 
 ### Conditions final en cas d'échec
 FIXME _[Describe the end condition that results if the Primary Actor fails to accomplish his goal.]_
 L'étudiant n'arrive pas à son but si :
-- la liste des matières à travailler n'est pas affichée
-- il n'a pas accès aux ressources de ses matières
+- il n'arrive pas à prendre connaissance des attentes de son tuteur
+- il n'est pas en mesure de planifier son travail sur la période
 
 
 FIXME _les variables suivantes sont optionnelles._
