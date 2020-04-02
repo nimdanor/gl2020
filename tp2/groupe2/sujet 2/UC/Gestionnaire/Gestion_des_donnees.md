@@ -1,11 +1,11 @@
 # Cas d'utilisation N° 1 :  Gestion des données des cartes
 
-Niveau Objectif Utilisateur
+- Niveau Objectif Utilisateur
 
 ##	Description
 
-Le gestionnaire de données est responsable de l'import de nouvelles données qui seront ensuite affichées sur les cartes.
-Il est également responsable de la vérification de l'intégrité de ces dernières en les mettant à jour et en les supprimant dans certains cas.
+- Le gestionnaire de données est responsable de l'import de nouvelles données qui seront ensuite affichées sur les cartes.
+- Il est également responsable de la vérification de l'intégrité de ces dernières en les mettant à jour et en les supprimant dans certains cas.
 
 > **Niveau** : Objectif utilisateur
 > **Déclencheur** : Besoin d'ajout/de moficiation d'une donnée 
@@ -15,8 +15,8 @@ Il est également responsable de la vérification de l'intégrité de ces derni�
   
 ## Preconditions
 
-Le gestionnaire doit avoir à sa disposition une interface permettant d'insérer des données provenant de sources externes (BDD).
-Il a également besoin d'une interface lui permettant de modifier les données intégrées au système.
+- Le gestionnaire doit avoir à sa disposition une interface permettant d'insérer des données provenant de sources externes (BDD).
+- Il a également besoin d'une interface lui permettant de modifier les données intégrées au système.
 
 ## Scenario Nominal
 
@@ -39,7 +39,7 @@ Il a également besoin d'une interface lui permettant de modifier les données i
 ## Post Conditions
 ### Conditions de succès 
 
-Les modifications effectuées doivent apparaître au sein du système une fois la validation effectuée.
+- Les modifications effectuées doivent apparaître au sein du système une fois la validation effectuée.
 
 ### Minimal Guarantees
 
@@ -55,11 +55,26 @@ Les modifications effectuées doivent apparaître au sein du système une fois l
 
 ### Besoins Spéciaux (optionel)  
 
+- 
+
 ### Performance  
+
+- 
+
 ###	Security  
+
+-
+
 ###	Usability / Accessibility  
+
+-
+
 ###	Other  
 
+-
+
 ##	Problèmes et étapes suivantes  
+
+-
 
 TBR
