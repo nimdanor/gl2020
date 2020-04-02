@@ -8,10 +8,10 @@ Ce use case concerne l'ajout de compétences d'une matière que les étudiants d
 
 FIXME N'oubliez pas de mensioner le concept **[{{concept}}](https://github.com/PremierLangage/plconception/blob/master/conception/concept/{{concept}}.md)**  
 
-> **Niveau** : Objectif utilisateur
-> **Déclencheur** : L'enseignant vient de mettre en place sa matière dans le système. Il souhaite ajouter les compétences que la matière a vocation à faire acquérir aux étudiants.
+> **Niveau** : Objectif utilisateur  
+> **Déclencheur** : L'enseignant vient de mettre en place sa matière dans le système. Il souhaite ajouter les compétences que la matière   a vocation à faire acquérir aux étudiants.  
 > **Acteur Primaire**: Enseignant   
-> **Acteurs secondaires**: TODO
+> **Acteurs secondaires**: TODO  
 > **Parties Prenantes concernées** : TODO   
  
  
