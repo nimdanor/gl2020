@@ -7,10 +7,10 @@ Affichage et calculs statistiques sur les notes déjà entrées par l'évaluateu
 * Pour les apprentis : Note personnelle multicritériée, classement.
 * Pour les enseignants : Ensemble des notes multicritériées sous forme d'un tableau avec calculs statistiques le cas échéant.
 
-> **Déclencheur** : Les soutenances sont terminées, il faut traiter et partager les notes.
-> **Acteur Primaire**: Secrétaire   
-> **Acteurs secondaires**: Evaluateur, Enseignant, Apprenti 
-> **Parties Prenantes concernées** : Jury  
+> * **Déclencheur** : Les soutenances sont terminées, il faut traiter et partager les notes.
+> * **Acteur Primaire**: Secrétaire   
+> * **Acteurs secondaires**: Evaluateur, Enseignant, Apprenti 
+> * **Parties Prenantes concernées** : Jury  
  
 ## Preconditions
 
