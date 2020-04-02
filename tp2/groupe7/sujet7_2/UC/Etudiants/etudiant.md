@@ -1,4 +1,4 @@
-# Cas d'utilisation N° {{nbuc}} :  {{Student}}
+# Cas d'utilisation N° {{nbuc}} :  Etudiant
 
 Niveau {{order}}
 
