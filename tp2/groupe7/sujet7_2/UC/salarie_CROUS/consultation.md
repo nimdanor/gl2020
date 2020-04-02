@@ -10,9 +10,13 @@ anticiper les besoins en nourriture en conséquence.
 FIXME N'oubliez pas de mentionner le concept **[{{concept}}](https://github.com/PremierLangage/plconception/blob/master/conception/concept/{{concept}}.md)**  
 
 > **Niveau** :Haut niveau, Résumé, objectif utilisateur, sous fonction, Bas niveau , FIXME Remove unused   
+
 > **Déclencheur** : "C'est l'heure de manger!" 
+
 > **Acteur Primaire**: Salarié CROUS
-> **Acteurs secondaires**: Etudiant
+
+> **Acteurs secondaires**: Etudiant, Ecran, Caméra
+
 > **Parties Prenantes concernées** : CRI - UGE
  
  
