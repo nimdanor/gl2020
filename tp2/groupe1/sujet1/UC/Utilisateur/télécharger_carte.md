@@ -1,13 +1,13 @@
-# Cas d'utilisation N° {{nbuc}} :  {{ucname}}
+# Cas d'utilisation N° 1 :  Télécharger une carte
 
-Niveau {{order}}
+Niveau : Haut Niveau
 
 ##	Description
 
-{{comment}}
+L'utilisateur télécharge une carte.
 
-FIXME _[One to two sentences that briefly describe the use case, including the primary actor’s goal]_   
-FIXME N'oubliez pas de mensioner le concept **[{{concept}}](https://github.com/PremierLangage/plconception/blob/master/conception/concept/{{concept}}.md)**  
+Une fois que l'utilisateur à consulter sa carte il peut choisir de la télécharger 
+
 
 > **Niveau** :Haut niveau, Résumé, objectif utilisateur, sous fonction, Bas niveau , FIXME Remove unused   
 > **Déclencheur** : _[Describe the event that initiates the use case.]_ TODO  
@@ -18,7 +18,7 @@ FIXME N'oubliez pas de mensioner le concept **[{{concept}}](https://github.com/P
  
 ## Preconditions
 
-FIXME Listez les conditions nécessaire pour que ce cas d'utilisation puisse avoir lieux
+
 
 
 ## Scenario Nominal
