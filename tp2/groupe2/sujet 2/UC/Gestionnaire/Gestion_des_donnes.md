@@ -21,9 +21,16 @@ Il a également besoin d'une interface lui permettant de modifier les données i
 ## Scenario Nominal
 
 1.	Connexion à l'interface d'administration
-2.	
-3.	TODO  
-4.	TODO  
+2.	Ouverture du panel d'insertion d'une nouvelle donnée
+3.	Insertion des informations concernant la nouvelle donnée
+4.	Validation de l'insertion
+5.  Ouverture du panel de modification des donnnées
+6.  Sélection d'une donnée existante
+7.  Modification des informations concernant la donnée sélectionnée
+8.  Validation des modifications
+9.  Ouverture du panel de suppression des données
+10. Sélection d'une donnée existante
+11. Validation de la suppression de la donnée
 
 ###	Extensions
 
