@@ -27,9 +27,6 @@ Niveau objectif utilisateur
 
 ###	Extensions
 
-FIXME Indiquez dans quel point du scenario nominal le chemin alternatif démarre et ou il reprend.
-
-
 ## Post Conditions
 ### Conditions de succès 
 - Indicateur visuel &#x2611; dans l'onglet de d'envoie de message
@@ -42,10 +39,8 @@ FIXME Indiquez dans quel point du scenario nominal le chemin alternatif démarre
 - Renvoie du message initial
 
 ### Frequence
-FIXME _[Indicate how often the use case is expected to occur. This information aids designers and developers in understanding capacity requirements.]_   
 
 ### Besoins Spéciaux (optionel)  
-FIXME _[Describe any additional factors that impact the execution of the use case. These could be environmental, regulatory, organizational or market-driven in nature.]_  
 
 ### Performance  
 
@@ -57,7 +52,3 @@ FIXME _[Describe any additional factors that impact the execution of the use cas
 ###	Other  
 
 ##	Problèmes et étapes suivantes  
-FIXME _[Note any issues related to the definition of this use case that will require clarification prior to development. Also list any follow-up work that needs to be done prior to sign-off on the use case.]_  
-
-FIXME définir ce qui pose problème dans la description **actuelle** du cas d'utilisation.  
-
