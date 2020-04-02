@@ -1,6 +1,6 @@
 # Cas d'utilisation N° 8 :  consulter_les_statistiques
 
-Niveau {{order}}
+Niveau 1
 
 ##	Description
 
@@ -21,15 +21,10 @@ Il faut être responsable de formation
 
 ## Scenario Nominal
 
-FIXME_[tout ce passe bien c'est le scénario parfait .]_
-
 1.	Souhaite réorganiser un cours  
 2.	Se connecte à l'application et se dirige vers l'onglet des cours  
 3.	Souhaite savoir combien d'enseignant ont sur un cours précis
 4.  Accede aux statistiques du cours avec graphs et infographies
-
-
-FIXME Indiquez dans quel point du scenario nominal le chemin alternatif démarre et ou il reprend.
 
 
 ## Post Conditions
