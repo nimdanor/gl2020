@@ -3,7 +3,7 @@
 ##	Description
 Permet à l'équipe pédagogique de définir les crières d'évaluation d'une soutenance
 
-> **Déclencheur** : ...
+> **Déclencheur** : Besoin de préparer une soutenance
 > **Acteur Primaire**: Enseignant
 > **Acteurs secondaires**: Personne 
 > **Parties Prenantes concernées** : Jury, étudiant
@@ -20,9 +20,9 @@ Permet à l'équipe pédagogique de définir les crières d'évaluation d'une so
 3.	Définir les catégories d'évaluation
 4.	Définir les critères d'évaluation
 5.	Définir le barême pour chaque crititère
-6.  Indiquer des champs complémentaires (note finale, commentaires...)
-7.  Définir les droits sur la soutenance
-8.  Valider
+6. Indiquer des champs complémentaires (note finale, commentaires...)
+7. Définir les droits sur la soutenance
+8. Valider
 
 ###	Extensions
 FIXME Indiquez dans quel point du scenario nominal le chemin alternatif démarre et ou il reprend.
