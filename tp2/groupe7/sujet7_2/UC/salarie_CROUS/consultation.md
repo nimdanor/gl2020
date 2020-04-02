@@ -1,12 +1,14 @@
-# Cas d'utilisation N° {{nbuc}} :  {{ucname}}
+# Cas d'utilisation N° {{nbuc}} :  {{Consultation}}
 
-Niveau {{order}}
+Niveau __Objectif utilisateur__
 
 ##	Description
 
 {{comment}}
 
-FIXME _[One to two sentences that briefly describe the use case, including the primary actor’s goal]_   
+Un salarié du CROUS doit pouvoir consulter l'état de la file d'attente afin de pouvoir 
+anticiper les besoins en nourriture en conséquence.
+
 FIXME N'oubliez pas de mensioner le concept **[{{concept}}](https://github.com/PremierLangage/plconception/blob/master/conception/concept/{{concept}}.md)**  
 
 > **Niveau** :Haut niveau, Résumé, objectif utilisateur, sous fonction, Bas niveau , FIXME Remove unused   
@@ -18,17 +20,18 @@ FIXME N'oubliez pas de mensioner le concept **[{{concept}}](https://github.com/P
  
 ## Preconditions
 
-FIXME Listez les conditions nécessaire pour que ce cas d'utilisation puisse avoir lieux
+Le système doit être capable de détecter la quantité d'élèves en train de faire la queue, et d'afficher cette
+information sur un écran visible par les salariés du CROUS.
 
 
 ## Scenario Nominal
 
 FIXME_[tout ce passe bien c'est le scénario parfait .]_
 
-1.	TODO  
-2.	TODO  
-3.	TODO  
-4.	TODO  
+1.	Les élèves font la queue
+2.	Le système analyse la queue via la caméra
+3.	Le système affiche sur un écran visible par les salariés CROUS le nombre d'élèves en train de faire la queue
+4.	Le salarié CROUS prépare les quantités de nourriture en conséquence
 
 ###	Extensions
 FIXME Moins bien _[Document alternate flows and exceptions to the main success scenario. Extensions are branches from the main scenario, and numbering should align with the step of the success scenario where the branch occurs.]_
