@@ -54,11 +54,12 @@ Le sytème a averti l'étudiant qu'il n'aurait pas le temps de se restaurer au C
 Ce cas d'utilisation apparaît tous les jours d'ouverture du restaurant et pour chaque étudiant qui souhaite s'y restaurer.
 
 ### Besoins Spéciaux (optionel)  
-FIXME _[Describe any additional factors that impact the execution of the use case. These could be environmental, regulatory, organizational or market-driven in nature.]_  
+
 
 ### Performance  
 ###	Security  
 ###	Usability / Accessibility  
+Ecrans d'affichage disponibles dans tout le hall
 ###	Other  
 
 ##	Problèmes et étapes suivantes  
