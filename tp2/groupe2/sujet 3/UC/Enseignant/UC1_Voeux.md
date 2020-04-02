@@ -29,8 +29,6 @@ La liste des intervenants doit être à jour.
 5. L'enseignant se déconnecte.  
 
 ###	Extensions
-FIXME Moins bien _[Document alternate flows and exceptions to the main success scenario. Extensions are branches from the main scenario, and numbering should align with the step of the success scenario where the branch occurs.]_
-FIXME Indiquez dans quel point du scenario nominal le chemin alternatif démarre et ou il reprend.
 Lors de la validation (étape 4), l'enseignant n'a pas renseginé sont objectif de 192h de cours. 
 L'enseignant est renvoyé à l'étape 2 pour choisir un cours.
 
