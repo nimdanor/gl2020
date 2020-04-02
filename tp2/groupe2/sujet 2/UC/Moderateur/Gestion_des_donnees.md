@@ -14,7 +14,7 @@
 
 > **Acteur Primaire**: Gestionnaire   
 
-> **Acteurs secondaires**: -
+> **Acteurs secondaires**: Utilisateur
 
 > **Parties Prenantes concernées** : -
   
