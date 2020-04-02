@@ -8,10 +8,8 @@ Niveau {{order}}
 
 {{comment}}
 
-FIXME _[One to two sentences that briefly describe the use case, including the primary actor’s goal]_   
-FIXME N'oubliez pas de mensioner le concept **[{{concept}}](https://github.com/PremierLangage/plconception/blob/master/conception/concept/{{concept}}.md)**  
+Acces à la liste des modules et professeurs pour remplir l'emploie du temps des cours
 
-> **Niveau** :Haut niveau  
 > **Déclencheur** : Préparation de l'année scolaire
 > **Acteur Primaire**: Secretaire   
 > **Acteurs secondaires**: Professeurs   
@@ -20,7 +18,7 @@ FIXME N'oubliez pas de mensioner le concept **[{{concept}}](https://github.com/P
  
 ## Preconditions
 
-FIXME Listez les conditions nécessaire pour que ce cas d'utilisation puisse avoir lieux
+Liste des professeurs et module complete pour la formation
 
 
 ## Scenario Nominal
@@ -29,8 +27,7 @@ FIXME_[tout ce passe bien c'est le scénario parfait .]_
 
 1.	Se connecter a l'application  
 2.	Acces à la formation  
-3.	Acces à l'emploie du temps  
-4.	TODO  
+3.	Acces à la liste des modules  
 
 ###	Extensions
 FIXME Moins bien _[Document alternate flows and exceptions to the main success scenario. Extensions are branches from the main scenario, and numbering should align with the step of the success scenario where the branch occurs.]_
@@ -52,7 +49,7 @@ FIXME _[Describe the end condition that results if the Primary Actor fails to ac
 FIXME _les variables suivantes sont optionnelles._
 
 ### Frequence
-FIXME _[Indicate how often the use case is expected to occur. This information aids designers and developers in understanding capacity requirements.]_   
+Regulièrement, mais seulement un moi par an
 ### Besoins Spéciaux (optionel)  
 FIXME _[Describe any additional factors that impact the execution of the use case. These could be environmental, regulatory, organizational or market-driven in nature.]_  
 ### Performance  
