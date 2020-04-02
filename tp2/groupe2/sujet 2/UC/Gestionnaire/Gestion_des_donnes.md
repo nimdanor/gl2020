@@ -34,9 +34,7 @@ Il a également besoin d'une interface lui permettant de modifier les données i
 
 ###	Extensions
 
-FIXME Moins bien _[Document alternate flows and exceptions to the main success scenario. Extensions are branches from the main scenario, and numbering should align with the step of the success scenario where the branch occurs.]_
-
-FIXME Indiquez dans quel point du scenario nominal le chemin alternatif démarre et ou il reprend.
+- 
 
 ## Post Conditions
 ### Conditions de succès 
