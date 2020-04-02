@@ -45,19 +45,19 @@ FIXME Indiquez dans quel point du scenario nominal le chemin alternatif démarre
 
 ## Post Conditions
 ### Conditions de succès 
-FIXME _[Describe the end condition of the Use Case where the Primary Actor’s goal is satisfied]_
+L'enseignant a évalué les compétences de l'étudiant sur sa matière. Il peut voir son évaluation prise en compte. L'étudiant aussi.
 
 ### Minimal Guarantees
 FIXME _[Describe the guarantee or assurance that this Use Case provides to all Actors and Stakeholders to protect their interest regardless of whether the Use Case ends with success or failure.]_
 
 ### Conditions final en cas d'échec
-FIXME _[Describe the end condition that results if the Primary Actor fails to accomplish his goal.]_
-
+Les compétences n'apparaissent pas comme évaluées, pour aucun utilisateur du logiciel.
 
 FIXME _les variables suivantes sont optionnelles._
 
 ### Frequence
-FIXME _[Indicate how often the use case is expected to occur. This information aids designers and developers in understanding capacity requirements.]_   
+Ce use case sera utilisé régulièrement tout au long de la formation.
+
 ### Besoins Spéciaux (optionel)  
 FIXME _[Describe any additional factors that impact the execution of the use case. These could be environmental, regulatory, organizational or market-driven in nature.]_  
 ### Performance  
