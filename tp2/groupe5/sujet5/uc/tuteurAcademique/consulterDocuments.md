@@ -50,7 +50,7 @@ Niveau: objectif utilisateur
 ### Besoins Spéciaux (optionel)  
 
 ### Performance  
-- Repondre dans tes temps raisonnables (ordre de la seconde)
+- Repondre dans des temps raisonnables (ordre de la seconde)
  
 ###	Security  
 - Ne pas accéder aux informations d'un autre étudiant
