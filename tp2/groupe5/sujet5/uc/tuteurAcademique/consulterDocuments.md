@@ -31,7 +31,7 @@ Niveau: objectif utilisateur
 ## Post Conditions
 ### Conditions de succès: Suivi académique d'un étudiant
 
-- Afficher une page regroupant les informations personnelles l'étudiant cible
+- Afficher une page regroupant les informations personnelles de l'étudiant cible
 
 ### Minimal Guarantees
 - Interface ergonomique et claire:
