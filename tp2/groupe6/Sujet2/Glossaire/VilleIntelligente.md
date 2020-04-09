@@ -1,3 +1,4 @@
 # Ville intelligente
 L'expression « ville intelligente », traduction de l'anglais Smart City, désigne une ville utilisant les technologies de l'information et de la communication (TIC) pour « améliorer » la qualité des services urbains ou encore réduire ses coûts.
+
 Une ville intelligente est une zone urbaine qui utilise différents capteurs de collecte de données électroniques pour fournir des informations permettant de gérer efficacement les ressources et les actifs. Cela comprend les données collectées auprès des citoyens, des dispositifs mécaniques, des actifs, traitées et analysées pour surveiller et gérer les systèmes de circulation et de transport, les centrales électriques, les réseaux d'approvisionnement en eau, la gestion des déchets, les systèmes d'information, les écoles, les bibliothèques et les hôpitaux.
