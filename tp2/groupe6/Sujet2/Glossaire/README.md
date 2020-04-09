@@ -4,7 +4,7 @@
 
 ### Dans ce répertoire vous pouve trouver la définition de chaque mot :
 
-1. Bureau d'études(BureauDÉtudes.md)
+Bureau d'études(BureauDÉtudes.md)
 2. Carte Interactive(CarteInteractive.md)
 3. Cartographie(Cartographie.md)
 4. Citoyen(Citoyen.md)
