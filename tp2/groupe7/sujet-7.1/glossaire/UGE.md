@@ -1,2 +1,2 @@
 
-# UGE " Université Gustave Eiffeil "
+# UGE "Université Gustave Eiffel"
