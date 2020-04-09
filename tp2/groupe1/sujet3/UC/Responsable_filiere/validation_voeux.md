@@ -1,44 +1,36 @@
 # Cas d'utilisation N° 1 :  validation des voeux
 
-Niveau objectif utilisateur
+Objectif utilisateur
 
 ##	Description
+Le responsable de filière valide (ou non) le voeux d'un enseignant. 
 
-{{comment}}
-
-FIXME _[One to two sentences that briefly describe the use case, including the primary actor’s goal]_   
-FIXME N'oubliez pas de mensioner le concept **[{{concept}}](https://github.com/PremierLangage/plconception/blob/master/conception/concept/{{concept}}.md)**  
-
-> **Niveau** :Haut niveau, Résumé, objectif utilisateur, sous fonction, Bas niveau , FIXME Remove unused   
-> **Déclencheur** : _[Describe the event that initiates the use case.]_ TODO  
-> **Acteur Primaire**: Utilisateur   
-> **Acteurs secondaires**: TODO   
-> **Parties Prenantes concernées** : TODO   
+> **Niveau** :Objectif utilisateur   
+> **Déclencheur** : Tous les enseignants ont renseigné leurs voeux.
+> **Acteur Primaire**: Responsable filiere   
+> **Acteurs secondaires**: Enseignant   
+> **Parties Prenantes concernées** :   
  
  
 ## Preconditions
-
-FIXME Listez les conditions nécessaire pour que ce cas d'utilisation puisse avoir lieux
-
+Il faut que tous les enseignants reseignent leurs voeux. 
 
 ## Scenario Nominal
-
-FIXME_[tout ce passe bien c'est le scénario parfait .]_
-
-1.	TODO  
-2.	TODO  
-3.	TODO  
-4.	TODO  
+1.	Le responsable se connecte à l'interface.  
+2.	Le responsable consulte les voeux émis par les enseignants.  
+3.	Le responsable répartis les enseignements/cours en fonction des voeux des enseignants.   
+4.	Le responsable valide ou non les voeux des enseignants.
+5. Le responsable se déconnecte. 
 
 ###	Extensions
 FIXME Moins bien _[Document alternate flows and exceptions to the main success scenario. Extensions are branches from the main scenario, and numbering should align with the step of the success scenario where the branch occurs.]_
 
 FIXME Indiquez dans quel point du scenario nominal le chemin alternatif démarre et ou il reprend.
 
-
 ## Post Conditions
 ### Conditions de succès 
-FIXME _[Describe the end condition of the Use Case where the Primary Actor’s goal is satisfied]_
+
+
 
 ### Minimal Guarantees
 FIXME _[Describe the guarantee or assurance that this Use Case provides to all Actors and Stakeholders to protect their interest regardless of whether the Use Case ends with success or failure.]_
