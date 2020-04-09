@@ -8,3 +8,4 @@ Détail de chaque entité :
 * [Module](module.md)
 * [Cours](cours.md)
 * [Voeux](voeux.md)
+* [Statistique](statistique.md)
