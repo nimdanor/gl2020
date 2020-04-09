@@ -4,7 +4,7 @@ Niveau 2
 
 ##	Description
 
-Permet à un tuteur école d'evaluer une compétence professionnelle dee l'élève
+Permet à un tuteur école d'evaluer une compétence professionnelle de l'élève
   
 > **Déclencheur** : Souhaite evaluer les competences professionnelles de l'élève
 > **Acteur Primaire**: tuteur entreprise
