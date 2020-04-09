@@ -1,4 +1,4 @@
 # Acteurs
 
-- Evaluateur
-- Candidat
+- [Evaluateur](evaluateur.md)
+- [Candidat](candidat.md)
