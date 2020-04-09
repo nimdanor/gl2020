@@ -5,6 +5,8 @@
 - Apogée
 - Moodle
 - Cohorte
+- TD
+- TP
 - Interfaçage
 - Responsive Design
 - Ergonomique
@@ -12,5 +14,6 @@
 - Open Source
 - Cas d'utilisation
 - Scénario
+- Module
 - API
 
