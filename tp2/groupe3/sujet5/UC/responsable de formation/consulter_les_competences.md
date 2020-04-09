@@ -1,6 +1,6 @@
 # Cas d'utilisation N° 1 :  Consulter les compétences
 
-Niveau 1
+Niveau 2
 
 ##	Description
 
