@@ -15,5 +15,8 @@ Partis prenants : (~personnes impactées)
 - Elèves
 
 Acteurs non humains :
-  - outils de gestion de l’université (ADE,Moodle...)
+  - ADE
+  - Moodle
+  - VSF
+  - Apogée
   - LDAP pour l’authentification
