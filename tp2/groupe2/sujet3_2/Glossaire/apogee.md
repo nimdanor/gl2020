@@ -1,3 +1,3 @@
 # Apogée 
 
-Il s'agit du logiciel de gestion des notes commun au université.
+Il s'agit du logiciel de gestion des notes commun à l'université.
