@@ -20,7 +20,8 @@ Les consommateurs peuvent consulter l'état de la file d'attente lorsqu'ils souh
 FIXME_[tout ce passe bien c'est le scénario parfait .]_
 
 1.	L'utilisateur lance l'application
-2.  L'utilisateur choisit quel restaurant vérifier
+2. L'utilisateur choisit quel restaurant vérifier
+3. Le temps d'attente estimé est affiché
 
 ###	Extensions
 FIXME Moins bien _[Document alternate flows and exceptions to the main success scenario. Extensions are branches from the main scenario, and numbering should align with the step of the success scenario where the branch occurs.]_
@@ -30,26 +31,23 @@ FIXME Indiquez dans quel point du scenario nominal le chemin alternatif démarre
 
 ## Post Conditions
 ### Conditions de succès 
-Le/la secrétaire peut récupérer les notes d'un groupe / classe sous forme affichable directement (par exemple, tableau excel), ainsi que les calculs statistiques qui accompagnent les notes :
 
-* Moyenne
-* Médiane
-* Ecart-type
-* Classement
 
 ### Minimal Guarantees
-Dans tous les cas, les notes doivent être récupérées, avec les différents critères et les apprentis associés.
+
 
 ### Conditions final en cas d'échec
-En cas d'échec, les notes sont perdues ou déréférencées par rapport aux apprentis.
+
 
 FIXME _les variables suivantes sont optionnelles._
 
 
 ### Frequence
-A chaque fois qu'il y a une session de soutenances.
+
 
 ### Besoins Spéciaux (optionel)  
+@asoran
+asoran 1000th commit 
 FIXME _[Describe any additional factors that impact the execution of the use case. These could be environmental, regulatory, organizational or market-driven in nature.]_  
 ### Performance  
 ###	Security  
