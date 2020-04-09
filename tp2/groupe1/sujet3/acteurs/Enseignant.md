@@ -1,5 +1,5 @@
 # Enseignant
-(enseignant titulaire, non titulaire, responsable de formation...)
+(enseignant titulaire, non titulaire)
 
 ### Ce qu’il fournit au système
 - Ses voeux d’enseignement
