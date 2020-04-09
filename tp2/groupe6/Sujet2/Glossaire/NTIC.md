@@ -1,3 +1,3 @@
-# NTIC (Technologies de l'information et de la communication)
+# NTIC (Nouvelles Technologies de l'information et de la communication)
 
 - Technologies de l'information et de la communication (TIC : transcription de l'anglais information and communication technologies, ICT) est une expression, principalement utilisée dans le monde universitaire, pour désigner le domaine de la télématique, c'est-à-dire les techniques de l'informatique, de l'audiovisuel, des multimédias, d'Internet et des télécommunications qui permettent aux utilisateurs de communiquer, d'accéder aux sources d'information, de stocker, de manipuler, de produire et de transmettre l'information sous différentes formes : texte, musique, son, image, vidéo et interface graphique interactive (IHM). Les textes juridiques et réglementaires utilisent la locution communications électroniques.
