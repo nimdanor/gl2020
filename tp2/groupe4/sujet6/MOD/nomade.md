@@ -1,1 +1,1 @@
-Désigne un mode de vie qui ce base sur le deplacement régulier des personnes
+Désigne le faite de pouvoir accéder aux grilles sde n'importe où
