@@ -5,6 +5,8 @@
 - Apogée
 - Moodle
 - Cohorte
+- TD
+- TP
 - Interfaçage
 - Responsive Design
 - Ergonomique
