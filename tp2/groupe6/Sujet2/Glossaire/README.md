@@ -8,7 +8,7 @@
 2. [Carte Interactive](CarteInteractive.md)
 3. [Cartographie](Cartographie.md)
 4. [Citoyen](Citoyen.md)
-5. [Coordonnées Géographiques](CoordonnéesgGographiques.md)
+5. [Coordonnées Géographiques](CoordonnéesGographiques.md)
 6. [Gestion Urbaine](GestionUrbaine.md)
 7. [Glossaire](Glossaire.md)
 8. [Géomatique](Géomatique.md)
