@@ -1,2 +1,2 @@
-# Infrastructure de gestion de connaissances
+# Infrastructure de gestion des connaissances
 Base de connaissances, outil de gestion documentaire
