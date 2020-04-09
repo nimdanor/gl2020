@@ -1,3 +1,3 @@
 # Moodle
 
-Outil de gestion d'espaces pédagogiques
+Outil interne de gestion d'espaces pédagogiques.
