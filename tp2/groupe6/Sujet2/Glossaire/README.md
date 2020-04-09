@@ -18,6 +18,6 @@
 12. [NTIC](NTIC.md)
 13. [Partie Prenante](PartiePrenante.md)
 14. [Portail Collaboratif](PortailCollaboratif.md)
-15. [Système d'Exploitation Urbain](SystemeDExploitationUrbain.md)
+15. [Système d'Exploitation Urbain](SystemeDExploitaionUrbain.md)
 16. [Utilisateur](Utilisateur.md)
 17. [Ville Intelligente](VilleIntelligente.md)
