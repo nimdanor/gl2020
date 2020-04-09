@@ -10,10 +10,11 @@
 - Interfaçage
 - Responsive Design
 - Ergonomique
-- Base de donnée
+- Base de données
 - Open Source
 - Cas d'utilisation
 - Scénario
 - Module
 - API
+- Interface web
 
