@@ -1,1 +1,4 @@
 # Acteurs
+
+- Evaluateur
+- Candidat
