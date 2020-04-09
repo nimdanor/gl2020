@@ -12,5 +12,6 @@
 - Open Source
 - Cas d'utilisation
 - Scénario
+- Module
 - API
 
