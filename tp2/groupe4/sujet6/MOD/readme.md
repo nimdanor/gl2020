@@ -9,6 +9,7 @@
 - [moyen](moyen.md)
 - [nomade](nomade.md)
 - [olympiade](olympiade.md)
+- [numerisation](numerisation.md)
 - [outil_lecture](outil_lecture.md)
 - [prestation](prestation.md)
 - [soutenance](soutenance.md)
