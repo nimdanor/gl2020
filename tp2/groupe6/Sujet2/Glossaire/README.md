@@ -11,7 +11,7 @@
 5. [Coordonnées Géographiques](CoordonnéesGéographiques.md)
 6. [Gestion Urbaine](GestionUrbaine.md)
 7. [Géomatique](Géomatique.md)
-8. [Infrastructure de Gestion des Connaissances] (InfrastructureDeGestionDesConnaissance.md)
+8. [Infrastructure de Gestion des Connaissances](InfrastructureDeGestionDesConnaissance.md)
 9. [Interface Cartographique](InterfaceCartographique.md)
 10. [Intuitif](Intuitif.md)
 11. [Intuition](Intuition.md)
