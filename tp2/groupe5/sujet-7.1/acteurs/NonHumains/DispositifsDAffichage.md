@@ -1,2 +1,3 @@
 * Application sur smartphone
+* Site web responsive
 * Ecrans ...
