@@ -12,7 +12,7 @@
 6. [Gestion Urbaine](GestionUrbaine.md)
 7. [Glossaire](Glossaire.md)
 8. [Géomatique](Géomatique.md)
-9. [Interface Cartographique]](InterfaceCartographique.md)
+9. [Interface Cartographique](InterfaceCartographique.md)
 10. [Intituitif](Intituitif.md)
 11. [Localisation](Localisation.md)
 12. [NTIC](NTIC.md)
