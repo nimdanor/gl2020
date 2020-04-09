@@ -1,2 +1,2 @@
 
-Valisation des services fait: Application qui permet aux ensiegnant et ensiegnants chercheurs d'effectuer des vacations.
+Valisation des services faits: Application qui permet aux ensiegnant et ensiegnant-chercheurs d'effectuer des vacations.
