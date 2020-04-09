@@ -1,7 +1,9 @@
 
 # Cas d'utilisation N° 08 :  Traiter les notes
+Niveau objectif utilisateur
 
 ##	Description
+Cet Use case décrit comme la secrétaire peur traiter les notes qu'elle reçoit.
 
 Affichage et calculs statistiques sur les notes déjà entrées par l'évaluateur. Le secrétaire doit pouvoir récupérer les notes et les avoir automatiquement sous une forme partageable :
 * Pour les apprentis : Note personnelle multicritériée, classement.
