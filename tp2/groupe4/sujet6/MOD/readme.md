@@ -1,10 +1,9 @@
 # Glossaire
 
 - [asynchrone](asynchrone.md)
-- [Create asynchrone](Create_asynchrone.md)
 - [besoin](besoin.md)
 - [critere](critere.md)
-- [dematerialisation_bout_en_bout](dematerialisation_bout_en_bout.md)
+- [dematerialisation](dematerialisation_bout_en_bout.md)
 - [ergonomique]([rgonomique.md)
 - [grilles_criteriees](grilles_criteriees.md)
 - [moyen](moyen.md)
