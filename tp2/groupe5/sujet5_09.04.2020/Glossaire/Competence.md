@@ -1,0 +1,1 @@
+Compétences (capacités) :  « un savoir agir complexe prenant appui sur la mobilisation et l’utilisation efficaces d’une variété de ressources internes ou externes à l'intérieur d'une famille de situations (d’apprentissage dans notre cas) »
