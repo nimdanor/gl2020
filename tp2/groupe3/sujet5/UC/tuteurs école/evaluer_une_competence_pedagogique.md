@@ -4,7 +4,7 @@ Niveau 2
 
 ##	Description
 
-Permet à un tuteur école d'evaluer une compétence pédagogique dee l'élève
+Permet à un tuteur école d'evaluer une compétence pédagogique de l'élève
   
 > **Déclencheur** : Souhaite evaluer les competences de l'élève
 > **Acteur Primaire**: tuteur ecole
@@ -22,7 +22,7 @@ L'élève et la compétence existent sur le sysètme
 1.	Souhaite evaluer un competence de l'élève 
 2.	Se connecte à l'application
 3.  Recherche l'élève
-4.  Onglet "competences"
+4.  Onglet "competences pedagogique"
 5.  Evalue les competences
 6.  Valide la page
 
