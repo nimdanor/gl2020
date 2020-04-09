@@ -1,3 +1,6 @@
+
+# Cours
+
 Un cours est une entité regroupant :
 
     des professeur
