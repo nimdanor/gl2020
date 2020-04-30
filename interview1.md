@@ -6,7 +6,7 @@ En binome.
 
 Dans une archive **machupofstudentnames.zip** d'un répertoire machupofstudentnames qui contient les fichiers suivants:
 
-Un Readme.md de présentation.
+Un **readme.md** de présentation.
 
 
 0) **student.json**
