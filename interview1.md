@@ -6,11 +6,16 @@ En binome.
 
 Dans une archive **machupofstudentnames.zip** d'un répertoire machupofstudentnames qui contient les fichiers suivants:
 
+Un Readme.md de présentation.
+
+
 0) **student.json**
 ```
 {"binomes":[{"nom":"Durand","prénom":"Jacques","etudiant":10567},{"nom":"Duplan","prénom":"Paulette","etudiant":42}],
-"repertoire":"machupofstudentnames"}
+"repertoire":"machupofstudentnames","sujet":"pizzaza"}
 ```
+Sujet = "pizzaza" ou "plan de charge"
+
 
 1) dans un fichier **acteurs.csv** fournir une liste des acteurs avec les colones suivantes :
 ```
