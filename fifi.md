@@ -7,8 +7,8 @@
 
 
 
-| QQOQCCP    |   Description  | Questions à se poser | Cibles |
-| ------------- |: -------------: | --------------: |------------------: |
+| QQOQCCP       |   Description | Questions à se poser |     Cibles        |
+| ------------- |:-------------:| -------------------- |------------------:|
 |Quoi ? |Description de la problématique, de la tâche, de l’activité |De quoi s’agit-il ? Que s’est il passé ? Qu’observe-t-on ? |Objet, actions, procédés, phase, opération, machine…|
 |Qui ?|
 ||Description des personnes concernées, des parties prenantes, des intervenants |Qui est concerné ? Qui a détecté le problème ? |Personnel, clients, fournisseur…|
