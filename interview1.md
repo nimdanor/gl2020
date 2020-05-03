@@ -17,7 +17,7 @@ Un **readme.md** de présentation.
 Sujet = "pizzaza" ou "plan de charge"
 
 
-1) dans un fichier **acteurs.csv** fournir une liste des acteurs avec les colones suivantes :
+1) dans un fichier **acteur.csv** fournir une liste des acteurs avec les colones suivantes :
 ```
 nom:principal:humain:formation:role
 ```
@@ -26,7 +26,7 @@ exemple:
 ```
 client:True:True:False:Interragi avec le distributeur.
 ```
-2) Dans un fichier **Objectifs.csv** fournir une liste des objectif de chaque acteurs.
+2) Dans un fichier **objectif.csv** fournir une liste des objectif de chaque acteurs.
 ```
 num:acteur:objectif  
 1:client:Retirer de l'argent d'un compte sous forme de billets  
