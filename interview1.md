@@ -44,7 +44,7 @@ reçu:Document papier fournis par le dab:Solde,transaction,echec,  plusieurs cas
 
 4) dans un fichier **usecase.csv** 
 ```
-num:name:acteur:objectif:résumé   
+num:name:acteur:objectif:resume   
 1:Retirer Argent:client:1:le client entre sa carte,le système vérifie l'identité, le client choisi le montant, le système créér la transaction banquaire de soustraction du montant, la banque valide la transaction, le distributeur rend la carte, le distributeur fournis le papier, le distributeur fournis les billets correspondant au montant.   
 2:Connaitre Solde:client:2:le client entre sa carte,le système vérifie l'identité, le client choisi afficher solde, le système rend la carte, le système récupère et imprime le solde,    
 ```
