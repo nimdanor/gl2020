@@ -1,7 +1,7 @@
 
-# TP2 
+# TP2 3 4 5
 
-La ou l'on découvre les acteurs.
+La ou l'on découvre les acteurs les cas d'utilisations le glossaire le MOD le FQM 
 Par groupes de 4 ou 5 vous travailler dans les groupes Discord du cours avec le sujet correspondant (groupe1/sujet1).
 
 Votre mission faire la liste des acteurs et des parties prenantes des sujet N  et N+1 du repertoire rep.
