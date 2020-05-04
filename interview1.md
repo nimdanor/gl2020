@@ -5,7 +5,7 @@ En binome.
 
 Pour vérifier votre archive vous avec le fichier verifcsv.py, placer votre archive + verifcsv.py dans un nouveau répertoire pour tester. 
 
-Dans une archive **machupofstudentnames.zip** d'un répertoire machupofstudentnames qui contient les fichiers suivants:
+Dans une archive **mashupofstudentnames.zip** d'un répertoire mashupofstudentnames qui contient les fichiers suivants:
 
 Un **readme.md** de présentation.
 
