@@ -164,25 +164,15 @@ def main(args):
         valide=False
         print(" Fichier MOD manquant",file=sys.stderr)
     # verification des fichier csv  loadcsv
-    if not verifcsv(open(args[1]+"/"+"acteur.csv","r"),HEADERS['acteur']):
-        print("Header invalides dans le fichier acteurs.csv",file=sys.stderr)
-    else:
-        print("acteurs ok")
 
 
-    try:
+    for name in ['acteur','concept','usecase','objectif']:
+        if not verifcsv(open(args[1]+"/"+name+".csv","r"),HEADERS[name]):
+            print(" Structure du fichier invalide ",name,".csv",file=sys.stderr)
+            print(" Problème de verification d'un CSV ",file=sys.stderr)
+            print(" can't manage the problem balling out", file=sys.stderr)
+            sys.exit(1)
 
-        if not  verifcsv(open(args[1]+"/"+"concept.csv"),HEADERS['concept']):
-            print("Header invalides dans le fichier concepts.csv",file=sys.stderr)
-        if not verifcsv(open(args[1]+"/"+"usecase.csv"),HEADERS['usecase']):
-            print("Header invalides dans le fichier usecase.csv",file=sys.stderr)
-        if not   verifcsv(open(args[1]+"/"+"objectif.csv"),HEADERS['objectif']):
-            print("Header invalides dans le fichier objectif.csv",file=sys.stderr)
-    except Exception as e:
-        print(e)
-        print(" Problème de verification d'un CSV ",file=sys.stderr)
-        print(" can't manage the problem balling out", file=sys.stderr)
-        sys.exit(1)
     # chargement 
     try:
         l=[]
@@ -190,14 +180,14 @@ def main(args):
             print(name)
             l.append(loadcsv(open(args[1]+"/"+name)))
             print(name)
-
     except Exception as e:
-        print(" Problème de lecture d'un CSV ",file=sys.stderr)
+        print(" Problème de lecture d'un CSV ",name,file=sys.stderr)
         print(" can't manage the problem balling out", file=sys.stderr)
         sys.exit(1)
 
     if valide:
-        print("OK valide pour l'evaluation c'est plus tard. Vous pouvez uploader.")
+        print("OK valide . Vous pouvez uploader.")
+        print(" pour l'evaluation c'est plus tard ;)")
     else:
         print("Réalisez les corrections nécessaires avant d'uploader sur moodle. Merci.")
 
@@ -211,7 +201,8 @@ if __name__ == '__main__':
     import sys
     print(sys.argv[1])
     if sys.argv[1]=="-h":
-        print(" python3 verifcsv.py zipfilename # withou the .zip")
+        print(" Create a directory dirname then zip it in dirname.zip then move it some place else then")
+        print(" python3 verifcsv.py zipfilename # without the .zip")
     if sys.argv[1]=="-b":
         # build a empty repertory with the good files 
         build(sys.argv[2])
