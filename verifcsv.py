@@ -188,12 +188,13 @@ def main(args):
     if valide:
         print("OK valide . Vous pouvez uploader.")
         print(" pour l'evaluation c'est plus tard ;)")
+        #import evaluation 
+        #evaluation.coherence(*l,descriptor)
+        sys.exit(0)
     else:
         print("Réalisez les corrections nécessaires avant d'uploader sur moodle. Merci.")
 
 
-    #import evaluation 
-    #evaluation.coherence(*l,descriptor)
 
     return 0
 
