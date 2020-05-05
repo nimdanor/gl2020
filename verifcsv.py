@@ -71,14 +71,13 @@ def createEmpty(filename, fieldnames, delimiter=":"):
         writer.writeheader()
 
 def check(h,r):
-    """
-    Pourrait êter plus permissif en acceptant que r contiennent plus de clefs mais au moins les h. TODO 
-    >>> check(["toto","titi"],{ "toto":3,"titi":4})
+    """ 
+    >>> check(["toto", "titi"], {"toto":3, "titi":4, "tata": 69})
     True
     """
     s=set(h)
     v=set(r.keys())
-    return s == v
+    return (len(s) != 0) and (s.issubset(v))
 
 def loadcsv(csvfile):
     """
