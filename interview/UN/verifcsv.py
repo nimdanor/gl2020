@@ -82,8 +82,6 @@ def check(h,r):
 def loadcsv(csvfile):
     """
     Creation de la liste des lignes 
-    >>> loadcsv(open("kiki/acteur.csv","r"))
-    [OrderedDict([('nom', 'kiki'), ('principal', 'True'), ('humain', 'False'), ('formation', 'False'), ('role', ' wag à tail')])]
     """
     try:
         s=csvfile.read(1024)
@@ -91,6 +89,8 @@ def loadcsv(csvfile):
             delimiter=":"
         elif ";" in s:
             delimiter = ";"
+        elif "," in s:
+            delimiter = ","
         csvfile.seek(0)
         reader = csv.DictReader(csvfile,delimiter=delimiter)
         return [row for row in reader]
@@ -102,7 +102,7 @@ def loadcsv(csvfile):
     
 def verifcsv(csvfile,headers):
     """
-    If there is no value in the file it is considered valide !!
+    FIXME If there is no value in the file it is considered valide !!
     >>> with open("test.csv","w") as f:
     ...     print("acteur:primaire",file=f)
     ...     print("toto:False",file=f)
@@ -116,6 +116,8 @@ def verifcsv(csvfile,headers):
         delimiter=":"
     elif ";" in s:
         delimiter = ";"
+    elif "," in s:
+        delimiter = ","
     csvfile.seek(0)
     reader = csv.DictReader(csvfile,delimiter=delimiter)
     for row in reader:
